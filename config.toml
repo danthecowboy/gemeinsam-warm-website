@@ -1,0 +1,4 @@
+baseURL = 'https://gemeinsam-warm.de/'
+languageCode = 'de-de'
+title = 'Gemeinsam Warm im Jossgrund'
+theme = 'basic'
