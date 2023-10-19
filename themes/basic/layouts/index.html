@@ -5,6 +5,13 @@
 <div class="container">
 
   {{.Content}}
+  
+      {{ range ( where .Site.RegularPages "Type" "posts" )}}
+      <!--<li>
+          <a href="{{ .Permalink }}">{{ .Date.Format "2006-01-02" }} | {{ .Title }}</a>
+        </li> -->
+        {{partial "post_summary.html" .}}
+      {{ end }}
 </div>
 
 {{end}}
