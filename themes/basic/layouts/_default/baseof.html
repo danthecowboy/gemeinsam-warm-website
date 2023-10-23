@@ -9,5 +9,8 @@
         {{- partial "footer.html" . -}}
 
         <script src="{{"js/bootstrap.bundle.min.js"|relURL}}" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+        {{ if .Page.Params.useGallery}}
+            <script src="{{"js/lightbox.min.js"|relURL}}"></script>
+        {{ end }}
     </body>
 </html>
