@@ -7,17 +7,21 @@
    <ul class="nav nav-pills">
      {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
-      <li class="nav-item"><a class="nav-link {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}">{{ .Name }}</a></li>
+      {{ if .HasChildren }}
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href=".{{.URL}}" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            {{.Name}}
+          </a>
+          <ul class="dropdown-menu">
+            {{ range .Children }}
+            <li><a class="dropdown-item" href="{{.URL}}">{{.Name}}</a></li>
+            {{ end }}
+          </ul>
+        </li>
+      {{ else }}
+        <li class="nav-item"><a class="nav-link {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}">{{ .Name }}</a></li>
+      {{ end }}
     {{ end }}
     </ul>
   </header>
 
-
-  <!--
-
-        <li class="nav-item"><a href="/" class="nav-link active" aria-current="page">Startseite</a></li>
-        <li class="nav-item"><a href="/grundlagen" class="nav-link">Grundlagen</a></li>
-        <li class="nav-item"><a href="/technik" class="nav-link">Technik</a></li>
-        <li class="nav-item"><a href="/kosten" class="nav-link">Kosten</a></li>
-        <li class="nav-item"><a href="/fragen" class="nav-link">Häufige Fragen</a></li>
-  -->
