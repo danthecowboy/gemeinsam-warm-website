@@ -6,10 +6,25 @@
 
    <ul class="nav nav-pills">
      {{ $currentPage := . }}
+
+     {{ $page := . }}
+{{ $basepath := path.Clean (urls.Parse (relLangURL "")).Path }}
+{{ if eq $basepath "/" }}
+    {{ $basepath = "" }}
+{{ end }}
+
+{{ $pagepath := strings.TrimPrefix $basepath $page.RelPermalink }}
+
     {{ range .Site.Menus.main }}
+    {{ $menupath := strings.TrimPrefix $basepath .URL }}
+                {{ $home := and (eq $menupath "/") (eq $pagepath "/") }}
+                {{ $menuprefix := and (ne $menupath "/") (hasPrefix $pagepath $menupath) }}
+                {{ $sectionprefix := and (ne $menupath "/") (hasPrefix $menupath (printf "/%s/" $page.Section)) }}
+                {{ $active := or $home $menuprefix $sectionprefix }}
+
       {{ if .HasChildren }}
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href=".{{.URL}}" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link dropdown-toggle {{if $active}} active {{end}}" href=".{{.URL}}" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             {{.Name}}
           </a>
           <ul class="dropdown-menu">
