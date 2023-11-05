@@ -9,3 +9,13 @@ weight: 1
 # Startseite 
 
 Dies ist die Startseite
+
+|Ortsteil|Wohngebäude|Interesse|
+|---|---|---|
+|Pfaffenhausen|100|100%|
+|Oberndorf|100|100%|
+|Lettgenbrunn|100|100%|
+
+
+---
+

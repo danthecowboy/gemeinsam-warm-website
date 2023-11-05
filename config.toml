@@ -27,3 +27,20 @@ theme = 'basic'
     url = "/grundlagen/zeitplan"
     parent = "grundlagen"
     weight = 2
+  [[menu.main]]
+    identifier = "technik"
+    name = "Technik"
+    url = "/technik"
+    weight = 3
+  [[menu.main]]
+    identifier = "waermeerzeugung"
+    name = "Wärmeerzeugung"
+    url = "/technik/waermeerzeugung"
+    parent = "technik"
+    weight = 1
+  [[menu.main]]
+    identifier = "netz"
+    name = "Netz"
+    url = "/technik/netz"
+    parent = "technik"
+    weight = 2
