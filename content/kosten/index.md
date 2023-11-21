@@ -8,5 +8,5 @@ weight: 4
 
 # Kosten
 
-KostenHallo
+Kosten
 
