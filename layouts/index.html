@@ -1,0 +1,129 @@
+{{ define "main" }}
+
+<section class="section bd-masthead">
+  <div class="container-xxl">
+    <div class="col-md-8 mx-auto text-center my-5">
+      <img class="d-block mx-auto mb-3" src="{{ `images/logo.png` | relURL }}" width="250" alt="Logo von Gemeinsam Warm">
+      <h1 class="display-4 fw-semibold mb-3">Gemeinsam heizen,<br/>gemeinsam sparen</h1>
+      <p class="lead mb-4">{{ .Site.Params.Description }}</p>
+      <!--<a class="btn btn-bd-primary btn-lg px-4 mb-2" href="https://github.com/filipecarneiro/hugo-bootstrap-theme" role="button">Get Startedsdsjdh</a>-->
+      <h2 class="text-muted mb-0">Nahwärme für ein nachhaltiges Morgen.</h2>
+    </div>
+  </div>
+</section>
+
+<section>
+  <p class="lead mb-4">
+    Herzlich willkommen auf der Webseite Nahwärme Jossgrund.<br/>
+    Wie Sie bereits auf unseren Informationsveranstaltungen in allen Ortsteilen zur Vorstudie Nahwärme für Jossgrund ist eine Versorgung mit Nahwärme auf für unsere drei Ortsteile Lettgenbrunn, Pfaffenhausen und Oberndorf.
+  </p>
+  <p class="lead mb-4">
+    Dass Nahwärme sehr gut funktioniert, beweist unser Ortsteil Burgjoß schon seit über 10 Jahren.
+Und am allerwichtigsten ist: Es gibt kaum eine bessere Alternative. 
+Jeder Hausbesitzer und jede Hausbesitzerin muss künftig mehr in seine Energieversorgung investieren. Viele verbaute Ölheizungen nähern sich ihrem Lebensende. Es besteht Handlungsbedarf. Investiert jeder Bürger in eine eigene Wärmeversorgung, so wird in Summe viel mehr Geld ausgegeben, als würde man sich zusammentun und “eine große Heizung” kaufen. Hierin liegt gewaltiges Potential.
+</p>
+<p class="lead mb-4">
+  Wir möchten Ihnen auf den folgenden Seiten darstellen
+  <ul>
+    <li>unter welchen Voraussetzungen die Nahwärme umsetzbar wäre</li>
+    <li>wie die technischen Rahmenbedingungen aussehen könnten</li>
+    <li>was Sie die Nahwärme kosten würde</li>
+    <li>welchen Optionen es für den Betrieb und die Finanzierung geben könnte</li>
+  </ul>
+</p>
+
+<p class="lead mb-4">
+  Wenn das Projekt weiterverfolgt werden soll, müssen wir viel Geld in Hand nehmen: Daher muss im Detail geplant werden, Alternativen betrachtet und es braucht möglichst eine Gesellschafts- und Beteiligungsstruktur.
+
+  Um diesen nächsten Schritt gehen zu können, muss eine ausreichende Anzahl von Gebäudeeigentümern mitmachen. Nur so kann diese Investition verantwortet werden.
+  
+  <table>
+    <tr>
+      <th><h1>Komfort</h1></th>
+      <th><h1>Klima</h1></th>
+    </tr>
+    <tr>
+      <td><h2>Ihre Vorteile</h2></td>
+      <td><h2>Ihr Betrag für die Umwelt!</h2></td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+        <li>keine Brennstoffbeschaffung/-lagerung</li>
+        <li>keine Brand- oder Explosionsgefahr</li>
+        <li>keine Geruchsbelästigung</li>
+        <li>kein Staub oder Schmutz</li>
+        <li>geringer Platzbedarf dank kompakter Technik</li>
+        <li>höchste Versorgungssicherheit</li>
+        <li>Entstörservice rund um die Uhr</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>nachhaltig</li>
+          <li>umweltfreundlich</li>
+        </ul>        
+      </td>
+    </tr>
+  </table>
+
+</p>
+</section>
+
+<section class="section container">
+  {{ partial "features" . }}
+</section>
+
+<section>
+
+  <h1>Ortsteilwärme</h1>
+  <h2>Aktuelles Interesse pro Ortsteil</h2>
+  <p class="lead mb-4">
+
+    <table>
+      <tr>
+        <th>Ortsteil</th>
+        <th>Wohngebäude</th>
+        <th>Interesse</th>
+        <th>Noch fehlende Anzahl an Gebäuden</th>
+      </tr>
+      <tr>
+        <td>Oberndorf</td>
+        <td>413</td>
+        <td>56%</td>
+        <td>35</td>
+      </tr>
+      <tr>
+        <td>Pfaffenhausen</td>
+        <td>303</td>
+        <td>57%</td>
+        <td>23</td>
+      </tr>
+      <tr>
+        <td>Lettgenbrunn</td>
+        <td>237</td>
+        <td>44%</td>
+        <td>50</td>
+      </tr>
+    </table>
+  
+  Auf dieser Übersichtskarte werden im gesamten Verlauf der Abfrage (xx.yy.2022 – 30.06.2024?) regelmäßig die aktualisierten Beteiligungsbekundungen für jede Straße prozentual angezeigt:
+<br/>
+  [HIER DIE KARTENANSICHT]
+  
+    </p>
+  
+
+</section>
+
+<section class="section container">
+  <h3 class="text-secondary text-center my-5">Weitere Informationen</h3>
+  {{ partial "latest-posts" . }}
+</section>
+
+<!--<section class="section container">
+  <h3 class="text-secondary text-center my-5">Featured Pages</h3>
+  {{ partial "featured-pages" . }}
+</section>-->
+
+{{ end }}
