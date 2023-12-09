@@ -7,28 +7,26 @@ parent: main
 weight: 3
 ---
 
-# Wer finanziert das... vielleicht sogar wir selbst?
+# Wer übernimmt die Kosten, möglicherweise sogar wir selbst?
 
-Es ist angedacht, dass den Nahwärmeausbau über eine Bürgergenossenschaft finanzieren wird.
+Die Finanzierung des Nahwärmeausbaus ist durch eine Bürgergenossenschaft vorgesehen.
 
-Denkbar sind Teil-Eigentümerschaften der Bürgerinnen und Bürger, beispielsweise an der geplanten Genossenschaft.
+Es könnten Teil-Eigentümerschaften der Bürgerinnen und Bürger an der geplanten Genossenschaft in Betracht gezogen werden.
 
-Die Finanzierung hängt im Wesentlichen davon ab, wie viel die Bürgerinnen und Bürger sich vorstellen könnten, in das Projekt zu investieren. Dies kann auch über die aktive Mitarbeit in der Genossenschaft sein, sowie verzinsliche Kapitaleinlagen in die Genossenschaft.
+Die entscheidende Frage für die Finanzierung ist, inwieweit die Bürgerinnen und Bürger bereit sind, in das Projekt zu investieren. Dies kann durch aktive Mitarbeit in der Genossenschaft sowie durch verzinsliche Kapitaleinlagen in die Genossenschaft erfolgen.
 
 ## Das Investitionsvolumen
 
-Das gesamte Investitionsvolumen des Projektes ist beträchtlich. Nach unserer Vorstudie ergibt sich eine Summe von ca. 17 Millionen Euro. 
+Das gesamte Investitionsvolumen für das Projekt beläuft sich auf eine erhebliche Summe von ca. 17 Millionen Euro, wie aus unserer Vorstudie hervorgeht.
 
-Unter Berücksichtigung von Zuschüssen (momentan 40%) bleiben noch 10,2 Millionen Euro.
+Unter Berücksichtigung von Zuschüssen (aktuell 40%) verbleiben noch 10,2 Millionen Euro.
 
-Die Summe relativiert sich, wenn man sie auf die Anzahl der angeschlossenen Gebäude bezieht. Es ergibt sich dann eine Größenordnung von rund 20.000 bis 25.000 Euro. 
+Diese Summe relativiert sich, wenn man sie auf die Anzahl der angeschlossenen Gebäude bezieht, und ergibt eine Größenordnung von etwa 20.000 bis 25.000 Euro pro Gebäude.
 
-In Summe muss der Betrag von 10,2 Mio. investiert werden. Sicherlich wird die Aufstellung einer Genossenschaft, die dann auch die Finanzierung organisiert, die zweite große Hürde werden.
+Die Herausforderung liegt darin, den Betrag von 10,2 Millionen Euro zu investieren, wobei die Gründung einer Genossenschaft als Organisator der Finanzierung die zweite große Hürde darstellen wird.
 
-Je weniger fremdfinanziert werden muss, umso stärker sinken die kWh-Kosten für jeden Haushalt. 
+Je geringer der Fremdfinanzierungsanteil ist, desto niedriger werden die kWh-Kosten für jeden Haushalt. Dies eröffnet uns eine Chance:
 
-Dies eröffnet uns eine Chance:
-
-Wenn sich viele Bürgerinnen und Bürger bereit erklären Investoren im eigenen Nahwärmeprojekt zu werden, kann dies die Chancen der Verwirklichung gewaltig erhöhen und das Projekt kann schneller umgesetzt werden.
+Wenn sich viele Bürgerinnen und Bürger dazu bereit erklären, als Investoren in ihrem eigenen Nahwärmeprojekt einzusteigen, könnte dies die Realisierungschancen erheblich verbessern und das Projekt schneller umsetzbar machen.
 
 

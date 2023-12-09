@@ -9,9 +9,9 @@ useGallery: true
 
 ### Das Nahwärmenetz
 
-In einem Heizwerk wird Wärme erzeugt, mit der Wasser erhitzt wird. Dieses wird dann vom Heizwerk aus durch ein unterirdisches Rohrnetz, das Nahwärmenetz gepumpt.
+In einem Heizwerk wird Wärme erzeugt, um Wasser zu erhitzen. Dieses erhitzte Wasser wird dann durch ein unterirdisches Rohrnetz, das Nahwärmenetz, gepumpt.
 
-In einem mit Nahwärme versorgten Gebäude kommen zwei Leitungen an, eine Vorlauf- und eine Rücklaufleitung. Das heiße Wasser durchströmt durch die Vorlaufleitung die Wärmeübergabestation, gibt dort über einen Wärmtauscher die Wärme an den Heizkreislauf des Endabnehmers ab und fließt durch die Rücklaufleitung zurück zum Heizwerk. Das rückfließende Wasser verliert auf seinem Weg an Temperatur, sodass es im Heizwerk ankommend erneut erhitzt wird und im Anschluss wieder in das Wärmenetz gepumpt wird. Es handelt sich somit um einen geschlossenen Kreislauf, dem kein Wasser entnommen wird.
+In einem Gebäude, das mit Nahwärme versorgt wird, gibt es zwei Leitungen: eine Vorlauf- und eine Rücklaufleitung. Das heiße Wasser fließt durch die Vorlaufleitung in die Wärmeübergabestation, gibt dort über einen Wärmetauscher die Wärme an den Heizkreislauf des Endabnehmers ab und kehrt durch die Rücklaufleitung zurück zum Heizwerk. Das zurückfließende Wasser verliert dabei auf seinem Weg an Temperatur, sodass es im Heizwerk erneut erhitzt wird und dann wieder in das Nahwärmenetz gepumpt wird. Dies bildet einen geschlossenen Kreislauf, bei dem kein Wasser entnommen wird.
 
 {{< gallery dir="img" >}}
 

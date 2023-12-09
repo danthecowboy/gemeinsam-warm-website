@@ -10,11 +10,11 @@ weight: 1
 
 ### Wärmeübergabe
 
-An der Kellerwand wird die Montage einer Abschlussarmatur erfolgen. Von dort würden die Rohre bis zum Heizungsraum verlegt, wo eine kompakte Übergabestation (Größe ca. 80 x 80 cm) installiert wird.
+An der Kellerwand erfolgt die Installation einer Abschlussarmatur. Von dort aus werden die Rohre zum Heizungsraum verlegt, wo eine kompakte Übergabestation (ca. 80 x 80 cm) installiert wird.
 
-In dieser Station würde die Wärme aus dem Fernwärmenetz an Ihre Anlage übergeben. Dies würde in einem sogenannten Wärmetauscher geschehen. Zudem würde die Anlage über einen Speicher für Warmwasser verfügen, den Ihre bisherige Heizung auch hat. Hierin würde das kalte Trinkwasser wie üblich erwärmt.
+In dieser Station wird die Wärme aus dem Fernwärmenetz an Ihre Anlage übergeben, wobei dies durch einen sogenannten Wärmetauscher geschieht. Darüber hinaus wird die Anlage über einen Warmwasserspeicher verfügen, ähnlich wie Ihre bisherige Heizung. In diesem Speicher wird das kalte Trinkwasser wie gewohnt erwärmt.
 
-Großer Vorteil von Fernwärme-Anlagen ist der geringe Platzbedarf. Besitzen Sie bislang eine Ölheizung mit großen Tanks im Keller, würden Sie mit einem kompakten Hausanschluss einen zusätzlichen Raum hinzugewinnen. Der Heizraum wäre keine Feuerungsanlage mehr, die eine Zuluftöffnung benötigt, durch die oft Schmutz und Insekten in den Heizraum gelangen können. Der Raum würde sauberer und könnte anderweitig genutzt werden.
+Ein großer Vorteil von Fernwärme-Anlagen ist der geringe Platzbedarf. Falls Sie bisher eine Ölheizung mit großen Tanks im Keller haben, gewinnen Sie mit einem kompakten Hausanschluss einen zusätzlichen Raum. Der Heizraum wird nicht mehr eine Feuerungsanlage sein, die eine Zuluftöffnung erfordert, durch die oft Schmutz und Insekten in den Raum gelangen können. Stattdessen bleibt der Raum sauberer und kann anderweitig genutzt werden.
 
 {{< gallery dir="img" >}}
 

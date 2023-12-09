@@ -9,14 +9,14 @@ weight: 4
 
 ## könnte wie folgt aussehen
 
-Die jährlichen Kosten können klassischerweise durch einen Arbeits- und einen Grundpreis abgebildet werden. Je höher der Grundpreis, desto niedriger ist der Arbeitspreis und umgekehrt (dies wird dann die angestrebte “Bürger-Genossenschaft festlegen). Spätere Gewinne kommen dann den Nahwärmekunden zugute.
+Die jährlichen Kosten werden durch einen Arbeits- und einen Grundpreis dargestellt. Ein höherer Grundpreis führt zu einem niedrigeren Arbeitspreis und umgekehrt (dies wird von der angestrebten Bürger-Genossenschaft festgelegt). Spätere Gewinne kommen dann den Nahwärmekunden zugute.
 
 [TODO: Preise noch fixieren]
 Arbeitspreis pro verbrauchter kWh	~ XY Ct / kWh
 Grundpreis pro installierter kW	~ XY EUR / kW
 
-Unter Annahme dessen würden sich jährliche Kosten wie folgt ergeben:
+Unter dieser Annahme würden sich die jährlichen Kosten wie folgt gestalten:
 
-Beispiel für ein durchschnittliches Einfamilienhaus mit ca. 20 kW installierter Leistung und einem Verbrauch von ca. 25.000 kWh.
+Als Beispiel dient ein durchschnittliches Einfamilienhaus mit etwa 20 kW installierter Leistung und einem Verbrauch von ca. 25.000 kWh.
 
-Die Kosten können zu diesem Zeitpunkt noch nicht verbindlich sein, da es noch viele Unbekannte gibt. Die Kosten sind auf der Basis von 2022 gerechnet, allein bedingt durch die Inflation werden diese bis zum Projektbeginn noch steigen. Die grundsätzliche Machbarkeit zu dieser Größenordnung ist jedoch gegeben. 
+Es ist wichtig zu betonen, dass die Kosten zu diesem Zeitpunkt noch nicht verbindlich sind, da es viele Unbekannte gibt. Die Berechnung basiert auf dem Stand von 2022, und allein aufgrund der Inflation werden diese bis zum Projektbeginn voraussichtlich steigen. Trotzdem ist die grundsätzliche Machbarkeit in dieser Größenordnung gegeben.

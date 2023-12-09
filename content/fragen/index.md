@@ -11,22 +11,19 @@ weight: 5
 
 ### Wie funktioniert Nahwärme?
 
-Ein Nahwärmenetz besteht aus einem Vor- und einem Rücklauf. Über den Vorlauf wird bis zu 85 Grad heißes Wasser zu Ihnen ins Haus gepumpt. Über den Rücklauf wird das abgekühlte Wasser zurück ins Heizwerk transportiert.
+In einem Heizwerk wird Wärme erzeugt, um Wasser zu erhitzen. Dieses erhitzte Wasser wird dann durch ein unterirdisches Rohrnetz, das Nahwärmenetz, gepumpt. Ein Nahwärmenetz besteht aus einem Vor- und einem Rücklauf. Über den Vorlauf wird bis zu 85 Grad heißes Wasser zu Ihnen ins Haus gepumpt. Über den Rücklauf wird das abgekühlte Wasser zurück ins Heizwerk transportiert.
 
 ### Was passiert, wenn die Übergabestation im Haus ausfällt?
 
-Eine Übergabestation ist sehr zuverlässig und wartungsarm. Sie wird seltener ausfallen als Ihre bisherige Heizung, falls überhaupt einmal. Sollte sie dennoch ausfallen, können Sie den Notdienst telefonisch erreichen. Die Übergabestation wird dann schnellstmöglich für Sie
-wieder in Stand gesetzt. Bei einer Reparatur der Übergabestation entstehen Ihnen keinerlei Kosten. Diese sind in den Kosten bereits inbegriffen.
+Eine Übergabestation ist äußerst zuverlässig und wartungsarm. Sie wird seltener ausfallen als Ihre bisherige Heizung, wenn überhaupt. Sollte es dennoch zu einem Ausfall kommen, können Sie den Notdienst telefonisch erreichen. Die Übergabestation wird dann schnellstmöglich für Sie wieder in Stand gesetzt. Bei einer Reparatur der Übergabestation entstehen Ihnen keinerlei Kosten, da diese bereits in den Gesamtkosten enthalten sind.
 
 ### Was ist im Sommer, wenn die Heizung normalerweise ausgeschaltet ist?
 
-Das Nahwärmenetz wird das ganze Jahr über betrieben. Wann immer Sie warmes Wasser zum Heizen, Baden oder Kochen benötigen, ist es verfügbar. Es wird wie bisher in einem Warmwasserspeicher bei Ihnen vorgehalten.
+Das Nahwärmenetz wird das gesamte Jahr über betrieben. Warmes Wasser für Heizung, Baden oder Kochen steht Ihnen jederzeit zur Verfügung. Es wird wie bisher in einem Warmwasserspeicher bei Ihnen vorgehalten.
 
 ### Warum ist die voraussichtlich benötigte Nahwärmemenge geringer als die jetzige Wärmemenge?
 
-Das ist so, weil die Verluste Ihrer Heizungsanlage (z.B. die durch den Schornstein entweichende Wärme) entfallen.
-Dies lässt sich mit Hilfe des für Deutschland geltenden technischen Regelwerks VDI 3808 berechnen. Dabei wird aus der Leistung der vorhandenen Heizung und dem Verbrauch der sog. Jahresnutzungsgrad berechnet. Mit 
-Durchschnittsparametern und Erfahrungswerten kann die voraussichtlich benötigte Fernwärmemenge errechnet werden. Diese liegt zwischen 10 und 35% unter der jetzigen eingekauften Primärenergiemenge, da Heizungsanlagen oft zu groß ausgelegt sind und beim Fernwärmebezug die Kesselverluste entfallen.
+Dies liegt daran, dass die Verluste Ihrer Heizungsanlage, wie beispielsweise die durch den Schornstein entweichende Wärme, entfallen. Dabei wird der Jahresnutzungsgrad aus der Leistung der vorhandenen Heizung und dem Verbrauch berechnet. Mit Durchschnittsparametern und Erfahrungswerten kann die voraussichtlich benötigte Nahwärmemenge ermittelt werden. Diese liegt in der Regel zwischen 10 und 35% unter der jetzigen eingekauften Primärenergiemenge, da Heizungsanlagen oft zu groß dimensioniert sind und beim Bezug von Nahwärme die Kesselverluste entfallen.
 
 ### Wie funktioniert die Warmwasserbereitung?
 

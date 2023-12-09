@@ -9,12 +9,12 @@ weight: 4
 
 ## anteilig nach Wärmeerzeuger und Nahwärmenetz mit Hausanschlüssen
 
-Die Kosten für die Wärmeerzeugung (Heizwerk) liegen bei etwa einem Viertel der Gesamtkosten, die restlichen 75% verteilen sich auf die Wärmeverteilung, also die Leitungen und die Hausanschlüsse bei den Wärmeabnehmern im Haus. Dies ist in erster Linie der ländlichen Situation geschuldet, da die Ortsteile recht weit auseinanderliegen, die Bebauung nicht so dicht ist und entsprechend lange Rohrleitungen verlegt werden müssen. In größeren Städten verhält sich dies entsprechend anders.
+Die Kosten für die Wärmeerzeugung (Heizwerk) machen etwa ein Viertel der Gesamtkosten aus, während die restlichen 75% auf die Wärmeverteilung entfallen, das heißt auf die Leitungen und die Hausanschlüsse der Wärmeabnehmer im Haus. Dies resultiert vor allem aus der ländlichen Situation, da die Ortsteile recht weit auseinanderliegen, die Bebauung nicht so dicht ist und dementsprechend lange Rohrleitungen verlegt werden müssen. In größeren Städten verhält sich dies entsprechend anders.
 
 # Die jährlichen Kostenanteile
 ## sind erheblich der Finanzierung geschuldet
 
-Wie die nebenstehende Grafik zur Ausgabenstruktur zeigt, wären die Kosten für die Umsetzung des Projektes investitionskostenlastig, d.h. fast die Hälfte der jährlich anfallenden Kosten für den Betrieb würden sich auf Zins und Tilgung verteilen.
+Wie aus der beigefügten Grafik zur Ausgabenstruktur ersichtlich ist, wären die Kosten für die Umsetzung des Projektes investitionsgebunden, das heißt, fast ca. 40% der jährlich anfallenden Kosten für den Betrieb würde sich auf Zinsen und Tilgung verteilen.
 
 [TODO: Brauchen wir diesen Text?
 Holz hingegen würde nur 17% der Kosten ausmachen, was eine hohe Preisstabilität bedeuten würde. Die restlichen Kostenanteile wie beispielsweise Personalkosten ändern sich i.d.R. etwa entsprechend der Inflation.
@@ -25,6 +25,7 @@ Holz hingegen würde nur 17% der Kosten ausmachen, was eine hohe Preisstabilitä
 
 Ein Investitionsbeitrag der Bürger ist freiwillig und keine Voraussetzung für einen Anschluss!
 
-Den Bürgern soll damit die Option eröffnet werden freiwillig in das Projekt zu investieren:
+Den Bürgern soll die Möglichkeit geboten werden, freiwillig in das Projekt zu investieren:
 
-Das Nahwärme-Projekt muss von der Planung bis zur Fertigstellung in den Straßen finanziert werden.  Dafür sind nach heutigem Stand für alle drei Ortsteile ca. 17 Mio EUR notwendig. 40% davon werden vom Staat gefördert. Verbleiben 10,2 Mio. EUR „aus eigener Kraft“. Diese Summe muss von einer noch zu gründenden Genossenschaft aufgebracht werden. Würde jeder Hausbesitzer, der sich für einen Anschluss entscheidet, sich an der Investition beteiligen und 25.000 EUR in die Genossenschaft einzahlen, könnte die Genossenschaft sofort anfangen. Externe Kredite und Zinskosten dafür würden nicht notwendig werden.
+Das Nahwärme-Projekt muss von der Planung bis zur Fertigstellung in den Straßen finanziert werden. Nach heutigem Stand sind dafür für alle drei Ortsteile etwa 17 Mio EUR notwendig. 40% davon werden vom Staat gefördert. Es verbleiben 10,2 Mio. EUR, die „aus eigener Kraft“ aufgebracht werden müssen. Diese Summe soll von einer noch zu gründenden Genossenschaft aufgebracht werden. Wenn sich jeder Hausbesitzer, der sich für einen Anschluss entscheidet, mit einer Investition von 25.000 EUR an der Genossenschaft beteiligt, könnte die Genossenschaft sofort beginnen. Externe Kredite und Zinskosten wären dafür nicht notwendig.
+

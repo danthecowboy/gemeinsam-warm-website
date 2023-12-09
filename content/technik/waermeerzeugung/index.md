@@ -8,16 +8,13 @@ weight: 3
 
 ### Wie und wo wird die Wärme erzeugt? 
 
-Ein Nahwärmenetz funktioniert prinzipiell mit jeder Energiequelle, solange die um das Wasser zu erwärmenden Temperaturen von etwa 80°C erreicht werden.
+Ein Nahwärmenetz kann grundsätzlich mit jeder Energiequelle funktionieren, solange die benötigten Temperaturen für die Erwärmung des Wassers, etwa 80°C, erreicht werden können.
 
-Zur Wärmeerzeugung wird ein Heizwerk benötigt, wo die zentrale Erzeugung der Wärme stattfindet. Diese Wärme wird über Nahwärmenetze den Verbrauchern zu geführt. Als Übertragungsmedium dienen i.d.R. Wasser oder Dampf.
+Für die Wärmeerzeugung ist ein Heizwerk erforderlich, in dem die zentrale Erzeugung der Wärme stattfindet. Diese Wärme wird über Nahwärmenetze zu den Verbrauchern transportiert. Als Übertragungsmedium dienen üblicherweise Wasser oder Dampf.
 
-Zusätzlich zur Wärmeerzeugung werden neben der Anlagensteuerung von einem Heizwerk aus auch das Nahwärmenetz und die Wärme-Übergabestationen bei den Kunden digital überwacht.
+Neben der Wärmeerzeugung überwacht ein Heizwerk auch das Nahwärmenetz und die Wärmeübergabestationen bei den Kunden digital über die Anlagensteuerung.
 
-Es stellt sich also die Frage, wie soll geheizt werden? Daher wurden unterschiedliche Primärenergieträger betrachtet.
-
-In 2008 waren noch alle Bürger und Parteien durchweg von Biomasse begeistert - das ist heute nicht mehr so. Holz als Wärmequelle ist nicht mehr "innovativ genug". Heute sollen Wärmepumpen die große Lösung sein. Dabei stellt sich natürlich die Frage, aus welchem Strommix sollten diese betrieben werden? Strom ist prinzipiell zu kostbar, um ihn zu verheizen.
-Welche künftigen Lösungen könnte es geben? Ist Wasserstoff vielleicht eine zukunftsträchtige Lösung?
+Die zentrale Frage lautet also: Wie soll geheizt werden? Deshalb wurden verschiedene Primärenergieträger in Betracht gezogen.
 
 ### Holz
 
