@@ -28,13 +28,10 @@ Ein grober Zeitplan könnte wie folgt aussehen:
 |Zeitraum|Schritt|
 |-------------------------|--------------------------------------------------|
 | bis Ende Juni 2024      | Interessensabfrage unter Bürgerinnen und Bürgern |
-| bis Ende 2024           | Ermittlung geeigneter Gesellschaftsformen        |
-| ca. zweite Hälfte 2025  | Gründung der Gesellschaft(en)                    |
-| ca. zweite Hälfte 2025  | Förder-Antragstellungen                          |
-| parallel bis März 2025  | Finanzierung sicherstellen                       |
-| Dezember 2025           | Business-Plan                                    |
-| Juni 2026               | Fachliche Planungen, Prioritäten (nach Wirtschaftlichkeit), Genehmigungsverfahren dazu, Vorbereitung Vergabeverfahren               |
-| 2027                    | Vergabeverfahren und Baubeginn                   |
+| ca. zweite Hälfte 2024  | Gründung der Genossenschaft(en)                    |
+| ca. Ende 2024/Anfang 2025  | Antragstellung der Förderungen, Finanzierung sicherstellen und Business-Plan                          |
+| Ab 2025               | Fachliche Planungen, Prioritäten (nach Wirtschaftlichkeit), Genehmigungsverfahren dazu, Vorbereitung Vergabeverfahren               |
+| Ab 2026                    | Vergabeverfahren und Baubeginn                   |
 
 
 

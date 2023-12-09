@@ -17,13 +17,13 @@ Die Finanzierung hängt im Wesentlichen davon ab, wie viel die Bürgerinnen und 
 
 ## Das Investitionsvolumen
 
-Das gesamte Investitionsvolumen des Projektes ist beträchtlich. Nach unserer Vorstudie ergibt sich eine Summe von ca. 11 Millionen Euro. 
+Das gesamte Investitionsvolumen des Projektes ist beträchtlich. Nach unserer Vorstudie ergibt sich eine Summe von ca. 17 Millionen Euro. 
 
-Unter Berücksichtigung von Zuschüssen (momentan 40%) bleiben noch 6,6 Millionen Euro.
+Unter Berücksichtigung von Zuschüssen (momentan 40%) bleiben noch 10,2 Millionen Euro.
 
 Die Summe relativiert sich, wenn man sie auf die Anzahl der angeschlossenen Gebäude bezieht. Es ergibt sich dann eine Größenordnung von rund 20.000 bis 25.000 Euro. 
 
-In Summe muss der Betrag von 6,6 Mio. investiert werden. Sicherlich wird die Aufstellung einer Genossenschaft, die dann auch die Finanzierung organisiert, die zweite große Hürde werden.
+In Summe muss der Betrag von 10,2 Mio. investiert werden. Sicherlich wird die Aufstellung einer Genossenschaft, die dann auch die Finanzierung organisiert, die zweite große Hürde werden.
 
 Je weniger fremdfinanziert werden muss, umso stärker sinken die kWh-Kosten für jeden Haushalt. 
 

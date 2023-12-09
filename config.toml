@@ -57,3 +57,26 @@ theme = 'basic'
     url = "/technik/waermeerzeugung"
     parent = "technik"
     weight = 3
+  [[menu.main]]
+    identifier = "kosten"
+    name = "Kosten"
+    url = "/kosten"
+    weight = 4
+  [[menu.main]]
+    identifier = "preis"
+    name = "Nahwärmepreis"
+    url = "/kosten/preis"
+    parent = "kosten"
+    weight = 1
+  [[menu.main]]
+    identifier = "preisvergleich"
+    name = "Preisvergleich"
+    url = "/kosten/preisvergleich"
+    parent = "kosten"
+    weight = 2
+  [[menu.main]]
+    identifier = "investitionskosten"
+    name = "Investitionskosten"
+    url = "/kosten/investitionskosten"
+    parent = "kosten"
+    weight = 3
