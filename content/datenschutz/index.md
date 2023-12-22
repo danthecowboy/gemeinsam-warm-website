@@ -7,11 +7,11 @@ menu: footer
 
 ## Unsere Datenschutzerklärung
 
-Wir nutzen für unsere Website XYZ, unter anderem ein Webhosting-Anbieter. Anbieter dahinter ist das deutsche Unternehmen
-ALL-INKL.com
-Neue Medien Münnich
-Hauptstraße 68
-02742 Friedersdorf
+Wir nutzen für unsere Website gemeinsam-warm.de, unter anderem ein Webhosting-Anbieter. Anbieter dahinter ist das deutsche Unternehmen
+
+netcup GmbH
+Daimlerstraße 25
+D-76185 Karlsruhe
 
 Mehr über die Daten, die durch Verwendung von ALL-INKL verarbeitet werden, erfahrt ihr in deren Datenschutzerklärung.
 
