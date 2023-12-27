@@ -7,13 +7,13 @@ menu: footer
 
 ## Unsere Datenschutzerklärung
 
-Wir nutzen für unsere Website gemeinsam-warm.de, unter anderem ein Webhosting-Anbieter. Anbieter dahinter ist das deutsche Unternehmen
+Wir nutzen für unsere Website gemeinsam-warm.de, unter anderem ein Webhosting-Anbieter. Anbieter dahinter ist das deutsche Unternehmen netcup GmbH.
 
 netcup GmbH
 Daimlerstraße 25
 D-76185 Karlsruhe
 
-Mehr über die Daten, die durch Verwendung von ALL-INKL verarbeitet werden, erfahrt ihr in deren Datenschutzerklärung.
+Mehr über die Daten, die durch Verwendung von netcup GmbH verarbeitet werden, erfahrt ihr in deren Datenschutzerklärung.
 
 Verantwortliche Stelle für die Datenverarbeitung
 Daniel Haberkorn
