@@ -1,10 +1,19 @@
   <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
-    <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+
+    <nav class="navbar navbar-expand-lg">
+      <div class="container">
+    <!-- <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none"> -->
+      <a href="/" class="navbar-brand">
       <img src="{{"logo.svg"|relURL}}" class="bi me-2" width="64px"/>
       <span class="fs-1">{{.Site.Title}}</span>
     </a>
 
-   <ul class="nav nav-pills">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+   <!-- <ul class="nav nav-pills"> -->
+    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
      {{ $currentPage := . }}
 
      {{ $page := . }}
@@ -38,5 +47,8 @@
       {{ end }}
     {{ end }}
     </ul>
+  </div>
+  </div>
+  </nav>
   </header>
 
