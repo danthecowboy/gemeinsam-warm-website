@@ -1,0 +1,12 @@
+
+<!-- "strasse" "long" "lat" "prozent" -->
+
+<script>
+  let strassen = [
+{{ $data := getCSV "," "content/data/" "interesse.csv" }}
+{{ range $data }}
+  {{ $row := . }}
+  {name: "{{ index $row 0 }}",long:"{{ index $row 1 }}",lat:"{{ index $row 2}}",prz:{{ index $row 3 }}},
+{{end}}
+  ];
+</script>
