@@ -7,6 +7,8 @@ menu: main
 weight: 1
 ---
 
+{{< map >}}
+
 {{< intro >}}
 
 {{< lead >}}
