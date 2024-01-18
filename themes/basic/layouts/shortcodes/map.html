@@ -10,3 +10,40 @@
 {{end}}
   ];
 </script>
+
+
+<div id="map" style="height: 400px;"></div>
+
+<script>
+  // Initialize the map
+  var map = L.map('map').setView([50.191450520595794, 9.472492179630756], 15);
+
+  // Add a tile layer to the map (you can choose a different provider and URL)
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap contributors'
+  }).addTo(map);
+
+  for(let i = 0; i < strassen.length; i++) {
+    let strasse = strassen[i];
+
+    console.log(strasse);
+    try {
+    L.marker([strasse.long, strasse.lat]).addTo(map)
+      .bindPopup(
+        "<p>" +
+                    "<span class='text-secondary text-lg font-accent'>" +
+                    strasse.name +
+                    "</span>" +
+                    "<br/>" +
+                    "<span class='text-primary text-2xl font-bold'>" +
+                    strasse.prz +
+                    "%</span>" +
+                    "<span class='text-secondary'> der Haushalte</span>" +
+                    "</p>"
+      ); 
+    } catch (e) {
+      console.log(e);
+    }
+  }
+
+</script>

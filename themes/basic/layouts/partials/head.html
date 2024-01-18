@@ -9,6 +9,11 @@
     <link rel="stylesheet async" as="style" href="{{"css/lightbox.min.css"|relURL}}">
   {{ end }}
   <link rel="stylesheet async" as="style" href="{{"css/style.css"|relURL}}">
-  <link rel="stylesheet async" as="style" href="{{"Lato-Regular.ttf"|relURL}}">
+  <link rel="font async" as="font" href="{{"Lato-Regular.ttf"|relURL}}">
+
+  {{ if .Page.Params.useMap}}
+    <script src="{{"js/leaflet.js"|relURL}}"></script>
+    <link rel="stylesheet async" as="style" href="{{"css/leaflet.css"|relURL}}">
+  {{ end }}
 
 </head>
