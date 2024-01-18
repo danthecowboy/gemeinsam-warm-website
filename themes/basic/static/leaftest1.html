@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Leaflet.js Example</title>
+  <!-- Include Leaflet CSS and JS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+</head>
+<body>
+
+<div id="map" style="height: 400px;"></div>
+
+<script>
+  // Initialize the map
+  var map = L.map('map').setView([50.191450520595794, 9.472492179630756], 15);
+
+  // Add a tile layer to the map (you can choose a different provider and URL)
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap contributors'
+  }).addTo(map);
+
+  // Add a marker to the map
+  L.marker([50.191450520595794, 9.472492179630756]).addTo(map)
+
+  L.marker([50.191450520595794, 9.472492179630756]).addTo(map)
+    .bindPopup(
+      "<p>" +
+                  "<span class='text-secondary text-lg font-accent'>" +
+                  "Teststrasse" +
+                  "</span>" +
+                  "<br/>" +
+                  "<span class='text-primary text-2xl font-bold'>" +
+                  "" +
+                  "%</span>" +
+                  "<span class='text-secondary'> der Haushalte</span>" +
+                  "</p>"
+    ).openPopup(); 
+</script>
+
+</body>
+</html>
+
