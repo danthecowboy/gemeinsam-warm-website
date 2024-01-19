@@ -15,6 +15,24 @@
 <div id="map" style="height: 400px;"></div>
 
 <script>
+  // create styles here
+
+  let styleDone = [];
+  for(let i = 0; i < strassen.length; i++) {
+    let strasse = strassen[i];
+    if (!styleDone.includes(strasse.prz)) {
+      styleDone.push(strasse.prz);
+      let style = document.createElement('style');
+      style.innerHTML = `
+        .icon-marker-${strasse.prz} {
+          background-color: hsl(${parseInt(strasse.prz) + 20}, 50%, 50%);
+        }
+      `;
+      document.head.appendChild(style);
+    }
+
+  }
+
   // Initialize the map
   var map = L.map('map').setView([50.191450520595794, 9.472492179630756], 15);
 
@@ -26,9 +44,13 @@
   for(let i = 0; i < strassen.length; i++) {
     let strasse = strassen[i];
 
-    console.log(strasse);
+    let myIcon = L.divIcon({
+      html: strasse.prz + "%",
+      iconSize: [60, 40],
+      className: "mapicon icon-marker-" + strasse.prz,
+    });
     try {
-    L.marker([strasse.long, strasse.lat]).addTo(map)
+    L.marker([strasse.long, strasse.lat], {icon: myIcon}).addTo(map)
       .bindPopup(
         "<p>" +
                     "<span class='text-secondary text-lg font-accent'>" +
