@@ -5,6 +5,7 @@ draft: true
 menu: none
 weight: 1
 useGallery: true
+headerImage: "technical.jpg"
 ---
 
 # Example1 

@@ -1,4 +1,4 @@
-  <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+<header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
 
     <nav class="navbar navbar-expand-lg">
       <div class="container">
@@ -72,3 +72,26 @@
 
   </header>
 
+  {{ if .Page.Params.headerImage}}
+
+  {{ $headerImage := .Page.Resources.GetMatch .Page.Params.headerImage }}
+
+  {{ if $headerImage }} 
+    
+  <style>
+  .header-image-nahwaerme {
+    width: 100%;
+    height: 150px;
+    background-image: url("{{ $headerImage.Permalink }}");
+    background-size: cover; /* The dimentions of your image */
+    background-position: center;
+    background-repeat: no-repeat;
+    display: block;
+    margin-bottom: 1vh;
+  }
+  </style>
+
+  {{end}}
+
+  <div class="row header-image-nahwaerme"></div>
+{{end}}
