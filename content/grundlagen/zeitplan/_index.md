@@ -15,11 +15,11 @@ Geplant ist folgende Vorgehensweise:
 
 ##### Erster Schritt:
 
-Es wird versucht, die 65 % Anschlussquote zu erreichen. Ein Fortgang des Projektes wird nur möglich, wenn diese Zahl zustande kommt.
+Es wird versucht, die 65% Anschlussquote zu erreichen. Ein Fortgang des Projektes wird nur möglich, wenn diese Zahl zustande kommt.
 
 ##### Zweiter Schritt: 
 
-Wenn diese 65%-Hürde genommen ist, haben die Bürger die Möglichkeit, sich als potentielle Investoren und Miteigentümer zu melden.
+Wenn diese 65-Prozent-Hürde genommen ist, haben die Bürger:innen die Möglichkeit, sich als potentielle Investoren und Miteigentümer zu melden.
 
 Ab Juli 2024 werden die gesammelten Daten in einer Datenbank entsprechend ausgewertet und das Ergebnis fließt im Anschluss in die Kalkulation des Projektes und Leitungsnetzes ein.
 

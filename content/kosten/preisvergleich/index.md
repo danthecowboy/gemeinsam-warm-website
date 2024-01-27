@@ -5,22 +5,38 @@ draft: true
 weight: 4
 ---
 
-# Nahwärmekosten im Vergleich
+# Heizkosten von Öl im Vergleich
 
-## ... mit einer Ölheizung
+ein durchschnittliches Einfamilienhaus benötigt etwa 3.000 Liter Heizöl im Jahr mit einer Ölheizung.
+Als Heizölpreis wird 1 EUR pro Liter angesetzt.
 
-in durchschnittliches Einfamilienhaus benötigt etwa 2.800 - 3.000 Liter Heizöl im Jahr mit einer Ölheizung von ca. 17-25 kW.
+Für Heizöl gilt dabei zu beachten: Die CO2-Abgabe wird jährlich weiter steigen und das Öl verteuern. 
 
-Dafür ergeben sich für 2022 folgende Kosten:
+Dafür ergäben sich (Stand 2022) circa folgende Kosten:
 
-Zusätzlich wird die CO2-Abgabe jährlich weiter steigen und das Öl verteuern. 
+{{< table table_class="table table-striped table-hover" thead_class="table-dark" >}}
+| Kosten für          |  Heizöl   | Nahwärme     | Wärmepumpe  | Pellets |
+|---|---|---|---|---|
+| Investition in neue Anlage im Gebäude (geschätzt) |
+| Wärmeerzeuger/Umbau | 20.000 EUR | 2.000 EUR | 36.000 EUR | 35.000 EUR |
+| Förderung  | 0% | 0% | 40% | 20% |
+| Kosten Wärmeerzeuger abz. Förderung  | 20.000 EUR | 2.000 EUR | 21.600 EUR | 28.000 EUR |
+| Möglicher Genossenschaftsbeitrag  | 5.000 EUR | 0 EUR | 0 EUR | 0 EUR |
+| Nutzungsdauer  | 20 Jahre | 20 Jahre | 20 Jahre | 20 Jahre |
+| Abschreibungskosten pro Jahr  | 350 EUR | 1.080 EUR | 1.000 EUR | 1.400 EUR |
+| Brennstoff/Wärmepreis (geschätzt) |
+| Brennstoffmenge pro Jahr  | 3.000 Liter | 24.990 kWh Wärme | 8.925 kWh Strom | 7 Tonnen |
+| Angesetzter Preis von Brennstoff/Wärme  | 1 EUR pro Liter | 0,15 EUR pro kWh Wärme | 0,3 EUR pro kWh Strom | 320 EUR pro Tonne |
+| Kosten für Brennstoff/Wärme pro Jahr  | 3.000 EUR | 3.750 EUR | 2.675 EUR | 2.220 EUR |
+| Betriebsnebenkosten (circa) |
+| Schornsteinfeger pro Jahr  | 90 EUR | 0 EUR | 0 EUR | 90 EUR |
+| Wartung  pro Jahr  | 200 EUR | 0 EUR | 340 EUR | 300 EUR |
+| Rücklage Reparaturen/Verschleißteile  pro Jahr  | 100 EUR | 0 EUR | 50 EUR | 150 EUR |
+| Nebenkosten  pro Jahr  | 390 EUR | 0 EUR | 390 EUR | 550 EUR |
+||
+| Gesamtkosten pro Jahr  | 4.400 EUR | 4.100 EUR | 4.150 EUR | 4.150 EUR |
 
-[TODO: Screenshot der Vergleichstabelle einfügen]
 
-# Nahwärmekosten im Vergleich
+{{< /table >}}
 
-## ... mit einer Wärmepumpe
 
-Die einmaligen Investitionskosten für eine Wärmepumpe betragen aktuell etwa:
-
-[TODO: Screenshot der Vergleichstabelle einfügen]

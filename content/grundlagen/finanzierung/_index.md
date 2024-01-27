@@ -23,10 +23,8 @@ Unter Berücksichtigung von Zuschüssen (aktuell 40%) verbleiben noch 10,2 Milli
 
 Diese Summe relativiert sich, wenn man sie auf die Anzahl der angeschlossenen Gebäude bezieht, und ergibt eine Größenordnung von etwa 20.000 bis 25.000 Euro pro Gebäude.
 
-Die Herausforderung liegt darin, den Betrag von 10,2 Millionen Euro zu investieren, wobei die Gründung einer Genossenschaft als Organisator der Finanzierung die zweite große Hürde darstellen wird.
+Die Herausforderung liegt darin, den Betrag von 10,2 Millionen Euro zu investieren, wobei die Gründung einer Genossenschaft als Organisator der Finanzierung die zweite, große Hürde darstellen wird.
 
-Je geringer der Fremdfinanzierungsanteil ist, desto niedriger werden die kWh-Kosten für jeden Haushalt. Dies eröffnet uns eine Chance:
-
-Wenn sich viele Bürgerinnen und Bürger dazu bereit erklären, als Investoren in ihrem eigenen Nahwärmeprojekt einzusteigen, könnte dies die Realisierungschancen erheblich verbessern und das Projekt schneller umsetzbar machen.
+Je geringer der Fremdfinanzierungsanteil ist, desto niedriger werden die kWh-Kosten für jeden Haushalt. Dies eröffnet uns eine Chance: Wenn sich viele Bürgerinnen und Bürger dazu bereit erklären, als Investoren in ihrem eigenen Nahwärmeprojekt einzusteigen, könnte dies die Realisierungschancen erheblich verbessern und das Projekt schneller umsetzbar machen.
 
 

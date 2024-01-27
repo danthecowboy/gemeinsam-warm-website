@@ -5,9 +5,7 @@ draft: true
 weight: 4
 ---
 
-# Der Nahwärmepreis
-
-## könnte wie folgt aussehen
+# Der Nahwärmepreis könnte wie folgt aussehen
 
 Die jährlichen Kosten werden durch einen Arbeits- und einen Grundpreis dargestellt. Ein höherer Grundpreis führt zu einem niedrigeren Arbeitspreis und umgekehrt (dies wird von der angestrebten Bürger-Genossenschaft festgelegt). Spätere Gewinne kommen dann den Nahwärmekunden zugute.
 
