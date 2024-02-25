@@ -23,15 +23,15 @@ theme = 'basic'
     parent = "grundlagen"
     weight = 1
   [[menu.main]]
-    identifier = "zeitplan"
-    name = "Zeitplan"
-    url = "/grundlagen/zeitplan"
-    parent = "grundlagen"
-    weight = 2
-  [[menu.main]]
     identifier = "finanzierung"
     name = "Finanzierung"
     url = "/grundlagen/finanzierung"
+    parent = "grundlagen"
+    weight = 2
+  [[menu.main]]
+    identifier = "zeitplan"
+    name = "Zeitplan"
+    url = "/grundlagen/zeitplan"
     parent = "grundlagen"
     weight = 3
   [[menu.main]]

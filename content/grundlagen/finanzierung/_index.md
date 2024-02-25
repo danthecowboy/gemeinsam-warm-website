@@ -7,6 +7,21 @@ parent: main
 weight: 3
 ---
 
+
+### Wie können wir in unseren Ortsteilen in Zukunft nachhaltig und finanzierbar heizen? ###
+
+Unter welchen Voraussetzungen wäre es möglich, Nahwärme in den Ortsteilen zu finanzieren und umzusetzen? Die Gemeinde Jossgrund hat dazu eine Vorstudie mit dem Titel "Nahwärme für Jossgrund" in Auftrag gegeben. Die Ergebnisse wurden bereits ab März 2023 in Informationsveranstaltungen in allen Ortsteilen präsentiert. Die Zusammenfassung des Ergebnisses lautet wie folgt:
+
+### Nahwärmeversorgung mit finanzierbaren Lösungsansätzen ist für ganz Jossgrund möglich!
+
+Die zukünftigen gesetzlichen Rahmenbedingungen deuten auf steigende Ölpreise und CO2-Besteuerung hin. Als Bürgerinnen und Bürger sehen wir uns mit nie dagewesenen finanziellen Risiken konfrontiert.
+
+Die aktuellen kWh-Preise aus den Vorstudien für Pfaffenhausen, Lettgenbrunn und Oberndorf befinden sich bereits auf einem Wettbewerbsniveau mit Heizöl und werden voraussichtlich sinken, sobald sich mehr Interessenten für einen Anschluss am Nahwärmenetz melden.
+
+Die Vorstudie legt einen starken Fokus auf Hackschnitzel, doch da die Technologie eines Nahwärmenetzes unabhängig von der Art der Wärmeerzeugung ist, besteht Flexibilität für zukünftige Entwicklungen hin zu alternativen Energieträgern.
+
+
+
 # Wer übernimmt die Kosten, möglicherweise sogar wir selbst?
 
 Die Finanzierung des Nahwärmeausbaus ist durch eine Bürgergenossenschaft vorgesehen.
