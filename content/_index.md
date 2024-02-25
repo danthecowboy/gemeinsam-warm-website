@@ -23,6 +23,12 @@ Es gibt kaum eine bessere Alternative: Nahwärme ist ökologisch, nachhaltig, in
 
 ### Die Motivation ###
 
+Die Gemeinde Jossgrund hatte dazu eine Vorstudie mit dem Titel "Nahwärme für Jossgrund" in Auftrag gegeben. Die Ergebnisse wurden  ab März 2023 in Informationsveranstaltungen in allen Ortsteilen präsentiert. Die Zusammenfassung des Ergebnisses lautet wie folgt:
+
+**Nahwärmeversorgung mit finanzierbaren Lösungsansätzen ist für ganz Jossgrund möglich!**
+
+**Das Projekt kann wirtschaftlich nur über einen bürgergenossenschaftlichen Ansatz realisiert werden!**
+
 Jeder Hausbesitzer muss künftig in seine Energieversorgung investieren. Viele verbaute Ölheizungen nähern sich ihrem Lebensende. Es besteht hoher Handlungsbedarf. Die Novellierung des Gebäudeenergiegesetzes regelt den Ausstieg aus der fossilen Heiztechnik und legt höhere energetische Anforderungen an Neubauten und Bestandsgebäude fest. Würde jeder für sich in eine eigene nachhaltige Heizung investieren, so würde es für jeden einzelnen deutlich teurer werden, als wenn man sich zusammentun und eine "gemeinsame Heizung" kaufen würde. Hierin liegt ein gewaltiges Potential.
 
 Unser Nahwärmeprojekt steht dafür
@@ -52,8 +58,8 @@ Auf dieser Internetseite möchten wir interessante Informationen zu folgenden Be
 
 ### Der Weg ###
 
-Die Verfolgung dieses Projekts erfordert erhebliche finanzielle Mittel. Daher ist eine detaillierte Planung erforderlich, einschließlich der Betrachtung von Alternativen und der Entwicklung einer geeigneten Gesellschafts- und Beteiligungsstruktur. Um den nächsten Schritt gehen zu können, ist die Beteiligung einer ausreichenden Anzahl von Hausbesitzern erforderlich. Nur so kann diese Investition verantwortungsbewusst umgesetzt werden.
-Wir müssen daher auf 65% Anteil an Interessenten kommen.
+Die Planung und Umsetzung dieses Projekts erfordert erhebliche finanzielle Mittel. Daher ist eine detaillierte Planung erforderlich, einschließlich der Betrachtung von Alternativen und der Entwicklung einer geeigneten Gesellschafts- und Beteiligungsstruktur. Um den nächsten Schritt gehen zu können, ist die Beteiligung einer ausreichenden Anzahl von Hausbesitzern erforderlich. Nur so kann diese Investition verantwortungsbewusst umgesetzt werden.
+**Wir müssen daher auf 65% Anteil an Interessenten kommen.**
 Stand November 2023 stehen wir bei den Anteil der Interessenbekundungen pro Ortsteil hier:
 
 {{< table table_class="table table-striped table-hover" thead_class="table-dark" >}}

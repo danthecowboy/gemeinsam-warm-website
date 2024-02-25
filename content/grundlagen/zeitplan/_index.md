@@ -7,33 +7,38 @@ parent: main
 weight: 1
 ---
 
-# Der Zeitplan - die nächsten Schritte
+### Der Zeitplan und die nächsten Schritte
 
-Wir möchten in den ersten sechs Monaten 2024 für das Nahwärmeprojekt Werbung machen und das Interesse von noch Unentschlossenen wecken. Dazu möchten wir unter anderem über diese Webseite die Interessensbekundungen durchführen und entsprechende Daten abfragen.
+Wir möchten in den nächsten Monaten für das Nahwärmeprojekt Werbung machen und das Interesse von noch Unentschlossenen wecken. Dazu möchten wir unter anderem über diese Webseite die Interessensbekundungen durchführen und entsprechende Daten abfragen.
 
 Geplant ist folgende Vorgehensweise:
 
-##### Erster Schritt:
+**Erster Schritt:**
 
-Es wird versucht, die 65% Anschlussquote zu erreichen. Ein Fortgang des Projektes wird nur möglich, wenn diese Zahl zustande kommt.
+Wir müssen das Projekt bewerben und Überzeugungsarbeit leisten, damit wir die 65% Anschlussquote erreichen. Ein Fortgang des Projektes wird nur möglich, wenn diese Quote für alle drei Ortsteile zustande kommt!
 
-##### Zweiter Schritt: 
+Dazu werden Flyer mit Informationen über das Nahwärmeprojekt verteilt werden.
 
-Wenn diese 65-Prozent-Hürde genommen ist, haben die Bürger:innen die Möglichkeit, sich als potentielle Investoren und Miteigentümer zu melden.
+**Zweiter Schritt:**
 
-Ab Juli 2024 werden die gesammelten Daten in einer Datenbank entsprechend ausgewertet und das Ergebnis fließt im Anschluss in die Kalkulation des Projektes und Leitungsnetzes ein.
+Sobald diese 65-Prozent-Hürde genommen ist, ist die Gründung einer Genossenschaft als Organisator der Finanzierung die zweite, große Hürde! Hierfür braucht es bereitwillige Bürgerinnen und Bürger, um die Genossenschaft zu gründen und zu führen.
+Erst, wenn diese Hürde genommen ist, können wir mit dem Projekt fortfahren.
 
-Ein grober Zeitplan könnte wie folgt aussehen:
+**Dritter Schritt:**
 
+Danach haben die Bürgerinnen und Bürger die Möglichkeit, sich als potentielle Investoren und Miteigentümer zu melden.
+
+**Ein grober Zeitplan könnte wie folgt aussehen:**
+
+{{< table table_class="table table-striped table-hover" thead_class="table-dark" >}}
 |Zeitraum|Schritt|
-|-------------------------|--------------------------------------------------|
-| bis Ende Juni 2024      | Interessensabfrage unter Bürgerinnen und Bürgern |
-| ca. zweite Hälfte 2024  | Gründung der Genossenschaft(en)                    |
-| ca. Ende 2024/Anfang 2025  | Antragstellung der Förderungen, Finanzierung sicherstellen und Business-Plan                          |
-| Ab 2025               | Fachliche Planungen, Prioritäten (nach Wirtschaftlichkeit), Genehmigungsverfahren dazu, Vorbereitung Vergabeverfahren               |
+|------------------------------|--------------------------------------------------|
+| bis Ende Juni 2024           | Werbung und Interessensabfrage unter Bürgerinnen und Bürgern |
+| ab erster Hälfte 2025         | Gründung der Genossenschaft(en)                    |
+| parallel ab 2025             | Antragstellung der Förderungen, Finanzierung sicherstellen und Business-Plan                          |
+| Ab 2025                      | Fachliche Planungen, Prioritäten (nach Wirtschaftlichkeit), Genehmigungsverfahren dazu, Vorbereitung Vergabeverfahren               |
 | Ab 2026                    | Vergabeverfahren und Baubeginn                   |
-
-
+{{< /table >}}
 
 
 
