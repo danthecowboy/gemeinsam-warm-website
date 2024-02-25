@@ -18,7 +18,7 @@ Die Gemeinde Jossgrund unterstützt ihre Bürgerinnen und Bürger bei der Bewäl
 Von Nahwärme spricht man, wenn Gebäude nicht selbst ihre Wärme erzeugen, sondern durch heißes Wasser für Heizung und Warmwasserversorgung über ein Warmwassernetz versorgt werden. Die Wärmeenergie wird zentral in einem Heizkraftwerk erzeugt und über Rohre direkt zu den angeschlossenen Häusern transportiert. Dadurch werden Öl- oder Gasheizungen in den angeschlossenen Gebäuden überflüssig.
 
 {{< picturetextrow img="img/darstellung-waermenetz.jpeg" >}}
-...
+lorem ipsuom irgendwas
 {{< /picturetextrow >}}
 
 Ein Nahwärmenetz ermöglicht es, ganze Gemeinden umweltfreundlich und nachhaltig mit Wärme zu versorgen.
