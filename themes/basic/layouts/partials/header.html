@@ -94,4 +94,17 @@
   {{end}}
 
   <div class="row header-image-nahwaerme"></div>
+
+
+  {{ if .Page.Params.useMermaid}}
+  <script>
+    var config = {
+      startOnLoad: true,
+      theme:'{{ if site.Params.mermaid.theme }}{{ site.Params.mermaid.theme }}{{ else }}dark{{ end }}',
+      align:'{{ if site.Params.mermaid.align }}{{ site.Params.mermaid.align }}{{ else }}center{{ end }}',
+    };
+    mermaid.initialize(config);
+  </script>
+  {{end}}
+  
 {{end}}

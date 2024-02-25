@@ -16,4 +16,8 @@
     <link rel="stylesheet async" as="style" href="{{"css/leaflet.css"|relURL}}">
   {{ end }}
 
+  {{ if .Page.Params.useMermaid}}
+    <script src="{{"js/mermaid.min.js"|relURL}}"></script>
+  {{ end }}
+
 </head>
