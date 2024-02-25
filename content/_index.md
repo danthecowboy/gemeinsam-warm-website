@@ -11,19 +11,73 @@ useMap: 1
 {{< intro >}}
 
 {{< lead >}}
-Herzlich willkommen auf der Webseite Nahwärme Jossgrund
+Herzlich willkommen auf der Webseite der Nahwärme Jossgrund
 {{< /lead >}}
 
 {{< lead >}}
-Dass Nahwärme sehr gut funktioniert, beweist unser Ortsteil Burgjoß schon seit über 10 Jahren.
-Und am allerwichtigsten ist: Es gibt kaum eine bessere Alternative.
+Dass Nahwärme sehr gut funktioniert beweist unser Ortsteil Burgjoß schon seit über 10 Jahren.
 
-Jeder Hausbesitzer und jede Hausbesitzerin muss künftig mehr in seine Energieversorgung investieren. Viele verbaute Ölheizungen nähern sich ihrem Lebensende. Es besteht Handlungsbedarf. Würde jeder für sich in eine eigene nachhaltige Heizung investieren, so würde es in Summe viel teurer werden, als würde man sich zusammentun und “eine große Heizung” kaufen. Hierin liegt gewaltiges Potential:
+Es gibt kaum eine bessere Alternative: Nahwärme ist ökologisch, nachhaltig, innovativ, unabhängig, wirtschaftlich und zukunftssicher.
+
+Wir möchten eine unabhängige und zentrale Wärmeversorgung per Nahwärme auch für Lettgenbrunn, Pfaffenhausen und Oberndorf erreichen.
+
+Die Motivation
+
+Jeder Hausbesitzer muss künftig in seine Energieversorgung investieren. Viele verbaute Ölheizungen nähern sich ihrem Lebensende. Es besteht hoher Handlungsbedarf. Die Novellierung des Gebäudeenergiegesetzes regelt den Ausstieg aus der fossilen Heiztechnik und legt höhere energetische Anforderungen an Neubauten und Bestandsgebäude fest. Würde jeder für sich in eine eigene nachhaltige Heizung investieren, so würde es für jeden einzelnen deutlich teurer werden, als wenn man sich zusammentun und eine "gemeinsame Heizung" kaufen würde. Hierin liegt ein gewaltiges Potential.
+
+Unser Nahwärmeprojekt steht dafür
+- selbst aktiv zu werden und eine unabhängige, lokale Wärmeversorgung zu betreiben
+- Wärme langfristig aus 100% erneuerbaren Energiequellen zu erzeugen
+- die Attraktivität unserer Gemeinde zu erhöhen und künftigen Generationen eine positive Perspektive zu bieten 
+
+Das Ziel
+
+Wir möchten auch für unsere drei Ortsteile Lettgenbrunn, Pfaffenhausen und Oberndorf 
+
+Mit Gründung einer Jossgründer Nahwärmegenossenschaft kann die Grundlage dafür geschaffen werden, eine über Generationen hinweg nutzbare, unabhängige Wärmeversorgung aufzubauen.
+
+Die Genossenschaft soll ehrenamtlich organisiert werden, arbeitet kostendeckend und nicht gewinnorientiert.
+
+Die Jossgründer werden dabei Eigentümer der Genossenschaft und können alle Entscheidungen aktiv mitgestalten.
+
+Um das Kapital für die Investitionen aufzubringen sind die Gemeinde, Bürger/-innen, Unternehmen und Vereine eingeladen sich zu beteiligen.
+
+Auf dieser Internetseite möchten wir interessante Informationen zu folgenden Bereichen bereitstellen:
+- unter welchen Bedingungen die Umsetzung von Nahwärme möglich wäre
+- wie die technischen Rahmenbedingungen gestaltet werden könnten
+- eine Abschätzung der Kosten für die Nutzung von Nahwärme
+- mögliche Optionen für den Betrieb und die Finanzierung aufzeigen
+{{< /lead >}}
+
+
+Der Weg
+
+Die Verfolgung dieses Projekts erfordert erhebliche finanzielle Mittel. Daher ist eine detaillierte Planung erforderlich, einschließlich der Betrachtung von Alternativen und der Entwicklung einer geeigneten Gesellschafts- und Beteiligungsstruktur. Um den nächsten Schritt gehen zu können, ist die Beteiligung einer ausreichenden Anzahl von Hausbesitzern erforderlich. Nur so kann diese Investition verantwortungsbewusst umgesetzt werden. Wir müssen daher auf 65% Anteil an Interessenten kommen.
+Stand März 2023 stehen wir bei den Anteil der Interessenbekundungen pro Ortsteil hier:
+
+{{< table table_class="table table-striped table-hover" thead_class="table-dark" >}}
+| Ortsteil          | Quote Interesse (Stand 03/2023)   | Noch fehlende Anzahl an Gebäuden (Stand 03/2023)
+|---|---|---|---|
+| Oberndorf     | 56% | 35 |
+| Pfaffenhausen | 57% |23 |
+| Lettgenbrunn  | 44% | 50 |
+{{< /table >}}
+
+
+{{< map >}}
+
+
+
+
+{{< lead >}}
+Die Vorteile von Nahwärme liegen auf der Hand
+
 {{< /lead >}}
 
 {{< lead >}}
 Vorteile einer zentralen Nahwärmeversorgung
 {{< /lead >}}
+
 
 {{< container >}}
 {{< row >}}
@@ -47,9 +101,6 @@ Der Ansatz gemeinsam in eine eigene Nahwärmeversorgung zu investieren, führt i
 {{< /row >}}
 {{< /container >}}
 
-{{< lead >}}
-Nahwärme macht einen Haken dran
-{{< /lead >}}
 
 {{< container >}}
 {{< row >}}
@@ -72,27 +123,3 @@ Nahwärme macht einen Haken dran
 {{< /column >}}
 {{< /row >}}
 {{< /container >}}
-
-Die Verfolgung dieses Projekts erfordert erhebliche finanzielle Mittel. Daher ist eine detaillierte Planung erforderlich, einschließlich der Betrachtung von Alternativen und der Entwicklung einer geeigneten Gesellschafts- und Beteiligungsstruktur. Um den nächsten Schritt gehen zu können, ist die Beteiligung einer ausreichenden Anzahl von Gebäudeeigentümer:innen erforderlich. Nur so kann diese Investition verantwortungsbewusst umgesetzt werden. Wir müssen daher auf 65% Anteil an Interessenten kommen.
-Aktuell stehen wir bei den Anteil der Interessenbekundungen pro Ortsteil hier:
-
-{{< table table_class="table table-striped table-hover" thead_class="table-dark" >}}
-| Ortsteil          | Anzahl Wohngebäude     | Quote Interesse   | Noch fehlende Anzahl an Gebäuden
-|---|---|---|---|
-| Oberndorf     | 413   | 56% | 35 |
-| Pfaffenhausen | 303 | 57% |23 |
-| Lettgenbrunn  | 237 | 44% | 50 |
-{{< /table >}}
-
-
-{{< map >}}
-
-{{< lead >}}
-Auf den einzelnen Seiten, die Sie über das Menü oben erreichen möchten wir Ihnen Informationen zu folgenden Themen aufzeigen:
-- Unter welchen Bedingungen die Umsetzung von Nahwärme möglich wäre.
-- Wie die technischen Rahmenbedingungen möglicherweise gestaltet werden könnten.
-- Eine Abschätzung der Kosten für die Nutzung von Nahwärme.
-- Mögliche Optionen für den Betrieb und die Finanzierung dieses Vorhabens.
-
-Viel Spaß beim Lesen!
-{{< /lead >}}
