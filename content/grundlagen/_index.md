@@ -10,7 +10,11 @@ useMermaid: true
 
 ## Grundlagen
 
-Das Thema Energieversorgung ist spätestens seit dem russischen Angriffskrieg auf die Ukraine und den damit verbundenen Versorgungsproblemen, sowie den aktuellen politischen Diskussionen allgegenwärtig. Das alles betrifft und beschäftigt sowohl Eigentümer, als auch Mieter. Das Interesse an einer klimaneutralen Energieversorgung ist in den letzten Jahren erheblich gestiegen. Schon jetzt wird jeder siebte Haushalt in Deutschland mit Fern- oder Nahwärme versorgt. Politisch gesehen soll sich diese Zahl bis 2045 verdreifachen.
+Das Thema Energieversorgung ist spätestens seit dem russischen Angriffskrieg auf die Ukraine und den damit verbundenen Versorgungsproblemen, sowie den aktuellen politischen Diskussionen allgegenwärtig.
+
+**Das alles betrifft und beschäftigt sowohl Eigentümer, als auch Mieter.**
+
+Das Interesse an einer klimaneutralen Energieversorgung ist in den letzten Jahren erheblich gestiegen. Schon jetzt wird jeder siebte Haushalt in Deutschland mit Fern- oder Nahwärme versorgt. Politisch gesehen soll sich diese Zahl bis 2045 verdreifachen.
 
 Die Gemeinde Jossgrund unterstützt ihre Bürgerinnen und Bürger bei der Bewältigung dieser Herausforderungen.
 
