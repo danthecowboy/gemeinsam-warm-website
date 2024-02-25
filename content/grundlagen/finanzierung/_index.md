@@ -8,11 +8,9 @@ weight: 3
 ---
 
 
-### Wie können wir in unseren Ortsteilen in Zukunft nachhaltig und finanzierbar heizen? ###
+**Wie können wir in Zukunft nachhaltig und finanzierbar heizen?**
 
-Unter welchen Voraussetzungen wäre es möglich, Nahwärme in den Ortsteilen zu finanzieren und umzusetzen? Die Gemeinde Jossgrund hat dazu eine Vorstudie mit dem Titel "Nahwärme für Jossgrund" in Auftrag gegeben. Die Ergebnisse wurden bereits ab März 2023 in Informationsveranstaltungen in allen Ortsteilen präsentiert. Die Zusammenfassung des Ergebnisses lautet wie folgt:
-
-### Nahwärmeversorgung mit finanzierbaren Lösungsansätzen ist für ganz Jossgrund möglich!
+Unter welchen Voraussetzungen wäre es möglich, Nahwärme in allen Ortsteilen zu finanzieren und umzusetzen?
 
 Die zukünftigen gesetzlichen Rahmenbedingungen deuten auf steigende Ölpreise und CO2-Besteuerung hin. Als Bürgerinnen und Bürger sehen wir uns mit nie dagewesenen finanziellen Risiken konfrontiert.
 
@@ -20,17 +18,11 @@ Die aktuellen kWh-Preise aus den Vorstudien für Pfaffenhausen, Lettgenbrunn und
 
 Die Vorstudie legt einen starken Fokus auf Hackschnitzel, doch da die Technologie eines Nahwärmenetzes unabhängig von der Art der Wärmeerzeugung ist, besteht Flexibilität für zukünftige Entwicklungen hin zu alternativen Energieträgern.
 
+**Wer übernimmt die Kosten, möglicherweise sogar wir selbst?**
 
-
-# Wer übernimmt die Kosten, möglicherweise sogar wir selbst?
-
-Die Finanzierung des Nahwärmeausbaus ist durch eine Bürgergenossenschaft vorgesehen.
-
-Es könnten Teil-Eigentümerschaften der Bürgerinnen und Bürger an der geplanten Genossenschaft in Betracht gezogen werden.
+Die Finanzierung des Nahwärmeausbaus ist durch eine Bürgergenossenschaft vorgesehen. Es könnten Teil-Eigentümerschaften der Bürgerinnen und Bürger an der geplanten Genossenschaft in Betracht gezogen werden.
 
 Die entscheidende Frage für die Finanzierung ist, inwieweit die Bürgerinnen und Bürger bereit sind, in das Projekt zu investieren. Dies kann durch aktive Mitarbeit in der Genossenschaft sowie durch verzinsliche Kapitaleinlagen in die Genossenschaft erfolgen.
-
-## Das Investitionsvolumen
 
 Das gesamte Investitionsvolumen für das Projekt beläuft sich auf eine erhebliche Summe von ca. 17 Millionen Euro, wie aus unserer Vorstudie hervorgeht.
 
