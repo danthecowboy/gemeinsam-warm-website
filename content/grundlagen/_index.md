@@ -25,15 +25,6 @@ pie title Kostenanteile
     "Betriebsgebundene Kosten" : 10
 {{< /mermaid >}}
 
-{{< mermaid >}}
-flowchart LR
-    y("👫 You") --> h{"🤝 Found this helpful?"}
-    h --> |Yes| r[/"⭐ Check out my featured posts!"/]
-    h --> |No| su[/"📝 Suggest changes by clicking near the title"/]
-    click r "/categories/featured" _blank
-{{< /mermaid >}}
-
-
 ### Was ist Nahwärme?
 Von Nahwärme spricht man, wenn Gebäude nicht selbst ihre Wärme erzeugen, sondern durch heißes Wasser für Heizung und Warmwasserversorgung über ein Warmwassernetz versorgt werden. Die Wärmeenergie wird zentral in einem Heizkraftwerk erzeugt und über Rohre direkt zu den angeschlossenen Häusern transportiert. Dadurch werden Öl- oder Gasheizungen in den angeschlossenen Gebäuden überflüssig.
 

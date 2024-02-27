@@ -5,6 +5,7 @@ draft: true
 menu: grundlagen
 parent: main
 weight: 1
+useMermaid: true
 ---
 
 ### Der Zeitplan und die nächsten Schritte
@@ -12,6 +13,7 @@ weight: 1
 Wir möchten in den nächsten Monaten für das Nahwärmeprojekt Werbung machen und das Interesse von noch Unentschlossenen wecken. Dazu möchten wir unter anderem über diese Webseite die Interessensbekundungen durchführen und entsprechende Daten abfragen.
 
 Geplant ist folgende Vorgehensweise:
+
 
 **Erster Schritt:**
 
@@ -28,7 +30,17 @@ Erst, wenn diese Hürde genommen ist, können wir mit dem Projekt fortfahren.
 
 Danach haben die Bürgerinnen und Bürger die Möglichkeit, sich als potentielle Investoren und Miteigentümer zu melden.
 
-**Ein grober Zeitplan könnte wie folgt aussehen:**
+**Ein grober Ablauf und Zeitplan soll wie folgt aussehen:**
+
+{{< mermaid >}}
+flowchart LR
+    a("Nahwärmeprojekt bewerben") --> b("65% Interessentenquote erreicht?")
+    b --> |Ja| d[/"Gründung der Genossenschaft(en)"/]
+    b --> |Nein| c[/"Weiter Werbung machen"/]
+    b --> h{"Gründung"}
+    click r "/categories/featured" _blank
+{{< /mermaid >}}
+
 
 {{< table table_class="table table-striped table-hover" thead_class="table-dark" >}}
 |Zeitraum|Schritt|
