@@ -1,0 +1,10 @@
+<div class="accordion-item">
+    <h2 class="accordion-header" id="flush-heading{{ .Get "id" }}">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse{{ .Get "id" }}" aria-expanded="false" aria-controls="flush-collapse{{ .Get "id" }}">
+        {{ .Get "title" }}
+      </button>
+    </h2>
+    <div id="flush-collapse{{ .Get "id" }}" class="accordion-collapse collapse" aria-labelledby="flush-heading{{ .Get "id" }}" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">{{ .Inner | markdownify }}</div>
+    </div>
+  </div>

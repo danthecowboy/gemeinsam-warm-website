@@ -1,0 +1,13 @@
+
+
+<p class="d-inline-flex gap-1">
+    <button class="btn btn-outline-primary" type="button" data-bs-toggle="collapse" data-bs-target="#{{ .Get "id" }}" aria-expanded="false" aria-controls="{{ .Get "id" }}">
+        {{ .Get "title" }}
+    </button>
+  </p>
+  <div class="collapse" id="{{ .Get "id" }}">
+    <div class="card card-body">
+        {{ .Inner | markdownify }}
+    </div>
+  </div>
+  

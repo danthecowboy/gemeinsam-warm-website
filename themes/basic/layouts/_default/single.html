@@ -1,6 +1,6 @@
 
 {{define "main"}}
-<div class="container container-custom">
+<div class="container container-custom bg-white">
   {{ if .Page.Resources.Match "img/header.png" }}
       {{ $header := .Page.Resources.GetMatch "img/header.png" }}
     <div class='featured-image lazy lazy-bg-image' data-background="{{ $header.Permalink }}" ></div>
