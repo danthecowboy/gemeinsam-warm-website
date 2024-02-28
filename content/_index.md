@@ -21,11 +21,11 @@ Dass Nahwärme sehr gut funktioniert, beweist unser Ortsteil Burgjoß schon seit
 
 Es gibt kaum eine bessere Alternative: Nahwärme ist ökologisch, nachhaltig, innovativ, unabhängig, wirtschaftlich und zukunftssicher.
 
-### Die Motivation ###
+#### Die Motivation
 
 Die Gemeinde Jossgrund hatte dazu eine Vorstudie mit dem Titel "Nahwärme für Jossgrund" in Auftrag gegeben. Die Ergebnisse wurden  ab März 2023 in Informationsveranstaltungen in allen Ortsteilen präsentiert. Die Zusammenfassung des Ergebnisses lautet wie folgt:
 
-**Nahwärmeversorgung mit finanzierbaren Lösungsansätzen ist für ganz Jossgrund möglich!**
+**Eine Nahwärmeversorgung mit finanzierbaren Lösungsansätzen ist für ganz Jossgrund möglich!**
 
 **Das Projekt kann wirtschaftlich nur über einen bürgergenossenschaftlichen Ansatz realisiert werden!**
 
@@ -36,7 +36,7 @@ Unser Nahwärmeprojekt steht dafür
 - Wärme langfristig aus 100% erneuerbaren Energiequellen zu erzeugen
 - die Attraktivität unserer Gemeinde zu erhöhen und künftigen Generationen eine positive Perspektive zu bieten 
 
-### Das Ziel ###
+#### Das Ziel
 
 Wir möchten auch unsere drei Ortsteile Lettgenbrunn, Pfaffenhausen und Oberndorf über Nahwärmenetze mit Wärme versorgen.
 
@@ -56,10 +56,12 @@ Auf dieser Internetseite möchten wir interessante Informationen zu folgenden Be
 {{< /lead >}}
 
 
-### Der Weg ###
+#### Der Weg
 
 Die Planung und Umsetzung dieses Projekts erfordert erhebliche finanzielle Mittel. Daher ist eine detaillierte Planung erforderlich, einschließlich der Betrachtung von Alternativen und der Entwicklung einer geeigneten Gesellschafts- und Beteiligungsstruktur. Um den nächsten Schritt gehen zu können, ist die Beteiligung einer ausreichenden Anzahl von Hausbesitzern erforderlich. Nur so kann diese Investition verantwortungsbewusst umgesetzt werden.
-**Wir müssen daher auf 65% Anteil an Interessenten kommen.**
+
+**Wir müssen daher auf eine 65-prozentige Anschlussquote kommen!**
+
 Stand November 2023 stehen wir bei den Anteil der Interessenbekundungen pro Ortsteil hier:
 
 {{< table table_class="table table-striped table-hover" thead_class="table-dark" >}}

@@ -11,7 +11,9 @@ Die aktuellen kWh-Preise aus den Vorstudien für Pfaffenhausen, Lettgenbrunn und
 
 **Für Heizöl gilt dabei zu beachten: Die CO2-Abgabe wird jährlich weiter steigen und das Öl Jahr für Jahr verteuern.**
 
-Ein durchschnittliches Einfamilienhaus benötigt etwa 3.000 Liter Heizöl im Jahr mit einer Ölheizung.
+
+Als Beispiel dient ein durchschnittliches Einfamilienhaus mit etwa 20 kW installierter Leistung und einem Verbrauch von ca. 25.000 kWh.
+Ein solches durchschnittliches Einfamilienhaus benötigt etwa 3.000 Liter Heizöl im Jahr.
 Als Heizölpreis wird 1 EUR pro Liter angesetzt.
 
 Bei einer Wärmeversorgung per Nahwärme wurde kWh-Preis von 15 Cent angesetzt.

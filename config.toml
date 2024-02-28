@@ -18,7 +18,7 @@ theme = 'basic'
     weight = 2
   [[menu.main]]
     identifier = "grundlagen_allgemein"
-    name = "Allgemein"
+    name = "Motivation"
     url = "/grundlagen"
     parent = "grundlagen"
     weight = 1
@@ -40,21 +40,21 @@ theme = 'basic'
     url = "/technik"
     weight = 3
   [[menu.main]]
-    identifier = "alskunde"
-    name = "Als Kunde"
-    url = "/technik/alskunde"
+    identifier = "netz"
+    name = "Das Wärmenetz"
+    url = "/technik/netz"
     parent = "technik"
     weight = 1
   [[menu.main]]
-    identifier = "netz"
-    name = "Netz"
-    url = "/technik/netz"
+    identifier = "waermeerzeugung"
+    name = "Die Wärmeerzeugung"
+    url = "/technik/waermeerzeugung"
     parent = "technik"
     weight = 2
   [[menu.main]]
-    identifier = "waermeerzeugung"
-    name = "Wärmeerzeugung"
-    url = "/technik/waermeerzeugung"
+    identifier = "alskunde"
+    name = "Im eigenen Haus"
+    url = "/technik/alskunde"
     parent = "technik"
     weight = 3
   [[menu.main]]

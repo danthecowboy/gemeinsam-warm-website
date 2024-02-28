@@ -12,44 +12,47 @@ useMermaid: true
 
 Wir möchten in den nächsten Monaten für das Nahwärmeprojekt Werbung machen und das Interesse von noch Unentschlossenen wecken. Dazu möchten wir unter anderem über diese Webseite die Interessensbekundungen durchführen und entsprechende Daten abfragen.
 
-Geplant ist folgende Vorgehensweise:
+Das Nahwärmeprojekt muss einige wichtige Hürden nehmen, bevor es zu einer Umsetzung kommt:
 
-
-**Erster Schritt:**
+**Erste wichtige Hürde: Das Erreichen der 65% Anschlussquote**
 
 Wir müssen das Projekt bewerben und Überzeugungsarbeit leisten, damit wir die 65% Anschlussquote erreichen. Ein Fortgang des Projektes wird nur möglich, wenn diese Quote für alle drei Ortsteile zustande kommt!
 
+Daher wird zunächst das Interesse von noch Unentschlossenen abgefragt werden. Ein wichtiges Zwischenziel ist bereits hier über eine Quote von 65% zu kommen.
+
 Dazu werden Flyer mit Informationen über das Nahwärmeprojekt verteilt werden.
 
-**Zweiter Schritt:**
+**Zweite wichtige Hürde: Bereitwillige Bürgerinnen und Bürger für die Gründung und Führung der Genossenschaft(en)**
 
 Sobald diese 65-Prozent-Hürde genommen ist, ist die Gründung einer Genossenschaft als Organisator der Finanzierung die zweite, große Hürde! Hierfür braucht es bereitwillige Bürgerinnen und Bürger, um die Genossenschaft zu gründen und zu führen.
 Erst, wenn diese Hürde genommen ist, können wir mit dem Projekt fortfahren.
 
-**Dritter Schritt:**
+**Dritter wichtige Hürde: Die Finanzierung sicherstellen**
 
-Danach haben die Bürgerinnen und Bürger die Möglichkeit, sich als potentielle Investoren und Miteigentümer zu melden.
+Danach muss die Förderung gesichert werden und die Bürgerinnen und Bürger die Möglichkeit nutzen, sich als potentielle Investoren und Miteigentümer an der Genossenschaft zu engagieren. Das Ziel ist hier, eine 65-prozentige Anschlussquote zu erreichen.
 
-**Ein grober Ablauf und Zeitplan soll wie folgt aussehen:**
+**Ein grober Ablauf der nächsten Schritte könnte wie folgt aussehen:**
 
 {{< mermaid >}}
 flowchart LR
-    a("Nahwärmeprojekt bewerben") --> b("65% Interessentenquote erreicht?")
-    b --> |Ja| d[/"Gründung der Genossenschaft(en)"/]
-    b --> |Nein| c[/"Weiter Werbung machen"/]
-    b --> h{"Gründung"}
-    click r "/categories/featured" _blank
+    a("Nahwärmeprojekt bewerben") --> b("Technische Umsetzungsmöglichkeiten evaluieren")
+    b --> d("Gründung der Genossenschaft(en)")
+    d --> e("Finanzierung sichern und Förderanträge stellen")
+    d --> f("Verbindliche Zusagen von Hausbesitzern einholen")
 {{< /mermaid >}}
 
+**Unser Zeitplan sieht wie folgt aus:**
 
 {{< table table_class="table table-striped table-hover" thead_class="table-dark" >}}
 |Zeitraum|Schritt|
-|------------------------------|--------------------------------------------------|
-| bis Ende Juni 2024           | Werbung und Interessensabfrage unter Bürgerinnen und Bürgern |
-| ab erster Hälfte 2025         | Gründung der Genossenschaft(en)                    |
-| parallel ab 2025             | Antragstellung der Förderungen, Finanzierung sicherstellen und Business-Plan                          |
-| Ab 2025                      | Fachliche Planungen, Prioritäten (nach Wirtschaftlichkeit), Genehmigungsverfahren dazu, Vorbereitung Vergabeverfahren               |
-| Ab 2026                    | Vergabeverfahren und Baubeginn                   |
+|----------------------------------|--------------------------------------------------|
+| bis Ende Juni 2024                  | Werbung und Ausweitung der Interessensabfrage unter (noch unentschlossenen) Hausbesitzern. |
+| zweite Hälfte 2024                  | Evaluierung der technischen Umsetzungsmöglichkeiten (Biomasse, Solar-Thermie, Geothermie, Wärmespeicher, Wärmepumpen).                    |
+| erste Hälfte 2025                | Gründung der Genossenschaft(en).                    |
+| parallel ab 2025                 | Verbindliche Zusage von Hausbesitzern zur Teilnahme am Nahwärmenetz einholen.                     |
+| parallel ab 2025                 | Antragstellung der Förderungen, Finanzierung sicherstellen und Business-Plan entwickeln.                          |
+| Ab 2026                       | Fachliche Planung, Prioritäten (nach Wirtschaftlichkeit), Genehmigungsverfahren, Vorbereitung Vergabeverfahren.               |
+| Ab 2027                          | Vergabeverfahren und Baubeginn.                   |
 {{< /table >}}
 
 
