@@ -8,35 +8,36 @@ weight: 3
 
 ### Wie und wo wird die Wärme erzeugt? 
 
-Ein Nahwärmenetz kann grundsätzlich mit jeder Energiequelle funktionieren, solange die benötigten Temperaturen für die Erwärmung des Wassers, etwa 80°C, erreicht werden können.
+Zur Erzeugung der Nutzwärme dient ein zentrales Heizwerk. Diese Wärme wird über Fernwärme- oder Nahwärmenetze zu den Verbrauchern geführt. Als Übertragungsmedium dient bei Nahwärmenetzen in der angedachten Größenordnung i.d.R. Wasser. Ein Fernwärmenetz funktioniert prinzipiell mit jeder Energiequelle in der Heizzentrale, sofern Temperaturen an den Übergabestellen zu den angeschlossenen Verbrauchern von etwa 80°C erreicht werden. Dies muss in allen Tages- und Nachtzeiten ganzjährig gewährleistet sein. Die geplante Temperatur an den Übergabestellen ein daher ein wesentliches Kriterium zur Auslegung des Netzes und der Leistungs-Dimensionierung der Heizzentrale. 
 
-Für die Wärmeerzeugung ist ein Heizwerk erforderlich, in dem die zentrale Erzeugung der Wärme stattfindet. Diese Wärme wird über Nahwärmenetze zu den Verbrauchern transportiert. Als Übertragungsmedium dienen üblicherweise Wasser oder Dampf.
+Es kommen verschiedene Energieträger für die Erzeugung der Nutzwärme im zentralen Heizwerk in Frage. Nachfolgend eine Auflistung der Möglichkeiten. Diese hat keinen Anspruch auf Vollständigkeit, und ist angelehnt an ein Dokument des BMWK, die FAQ Sammlung zur Novelle des GEG 2024. 
 
-Neben der Wärmeerzeugung überwacht ein Heizwerk auch das Nahwärmenetz und die Wärmeübergabestationen bei den Kunden digital über die Anlagensteuerung.
+## Welche Möglichkeiten sieht das Gesetz für das klimafreundliche Heizen vor?
 
-Die zentrale Frage lautet also: Wie soll geheizt werden? Deshalb wurden verschiedene Primärenergieträger in Betracht gezogen.
+### Anschluss an ein Fern- oder Gebäudewärmenetz:
 
-### Holz
-
-Kürzlich wurde von einem Bundesministerium die Aussage veröffentlicht, Holz sei entgegen weit verbreiteter Meinungen nicht klimaneutral, weil ein Baum schneller verbrennt als er wächst. Holz wäre eventuell akzeptabel, wenn es nachhaltig erzeugt wäre...
-Nachhaltigkeit ist das Prinzip aller Forstwirtschaft in Deutschland! Es gibt eine Forsteinrichtung, die genau festlegt, welcher Zuwachs in Deutschland stattfindet und entsprechend dieser darf auch nur entnommen werden. Sollte man genau diese Menge entnehmen und verbrennen, wird daraus genau das CO2 freigesetzt, was sich in derselben Zeit in derselben Fläche eingelagert hat. Würde diese Holzmenge nicht verbrannt, sondern stattdessen verrotten, würde ebenso diese Menge CO2 freigesetzt.
-
-### Geothermie
+In Wärmenetzen können verschiedene Erneuerbare Wärmequellen sowie Abwärme effektiv genutzt und miteinander kombiniert werden.
 
 ### Wärmepumpe
 
-Heizen mit einer Wärmepumpe ist heizen mit Strom. Aus 1 Kilowatt Strom werden etwa 2,6 Kilowatt Wärme erzeugt.
-Der Haken bei Wärmepumpen ist die benötigte Temperatur. Werden über 50° Celsius benötigt, wird es schwierig. Ein Fernwärmenetz benötigt mindestens 75° Celsius. Es gibt seltene Fälle, in denen ein Fernwärmenetz mit einer Wärmepumpe betrieben wird. Dies ist jedoch nur der Fall, wenn Abwärme vorliegt.
+Die Wärmepumpe nutzt zum großen Teil die kostenlose und erneuerbare Umweltwärme (aus dem Boden, der Luft oder dem Wasser/Abwasser) und erfüllt daher die Erneuerbaren-Energien-Vorgabe. 
 
-### Solar
+### Wärmepumpen-Hybridheizung:
 
-Eine Ergänzung mit Solarenergie ist denkbar und realisierbar. Zeitweise könnte hiermit Holz eingespart werden. Man spart allerdings nichts an Investitionskosten bei der Verbrennungsanlage, da auch die Zeiten ohne Sonnenschein abgedeckt werden müssen.
+Reicht eine Wärmepumpe allein nicht aus, um die Heizlastspitze im Winter zu decken, kann sie durch einen fossil betriebenen Wärmeerzeuger (Öl- oder Gasheizung) oder durch eine Biomasseheizung ergänzt werden. Dieser Spitzenlastkessel kommt dann nur an besonders kalten Tagen zur Unterstützung zum Einsatz. Um die Vorgabe von 65 Prozent Erneuerbaren Energien zu erfüllen, muss die Wärmepumpe vorrangig betrieben werden und Mindestanforderungen an die Leistung erfüllen. Die Dimensionierung muss so erfolgen, dass rechnerisch nachgewiesen über 65% der Wärme aus regenerativer Quelle erfolgt. 
 
-### Power To Heat
+### Biomasseheizung (Holzheizung, Pelletheizung, etc.): 
 
-### Wasserstoff
+Da nachhaltig erzeugte Biomasse nur begrenzt verfügbar ist und voraussichtlich aufgrund der Nachfrage in verschiedenen Sektoren teurer wird, empfiehlt sich diese Option vor allem, wenn andere Lösungen nicht sinnvoll oder machbar sind. 
 
-Wasserstoff könnte eine realistische Option werden. Man unterscheidet grünen, blauen, grauen Wasserstoff. Grüner Wasserstoff wird aus grünem Strom per Elektrolyse hergestellt. Der Wirkungsgrad ist sehr schlecht und die Kosten sind etwa 2-3-mal so hoch wie bei Gas.
-Das größte Problem ist jedoch, dass es momentan keinen Brenner gibt, der reinen Wasserstoff verbrennen kann. Daran wird aktuell geforscht.
-Das Thema kann jedoch in Zukunft interessant werden.
+### Gasheizung, die nachweislich erneuerbare Gase nutzt: 
 
+In diesem Fall muss für die Wärmeversorgung zu mindestens 65 Prozent Biomasse, zum Beispiel nachhaltiges Biomethan bzw. biogenes Flüssiggas oder aber grüner oder blauer Wasserstoff verwendet werden. Biomethan muss dabei die Vorgaben des Erneuerbare-Energien-Gesetzes erfüllen.
+
+### Solarthermie mit saisonalem Wärmespeicher
+
+Solarthermie stellt Wärme vorwiegend im Sommer zur Verfügung, wenn sie zum Heizen weniger gebraucht wird. Die Energie lässt sich im Sommer in einen Wärmespeicher einspeisen und im Winter wieder abrufen. 
+
+### Geothermie
+
+Erdwärme ist die im zugänglichen Teil der Erdkruste gespeicherte Wärme (thermische Energie). Sie stammt bei uns aus dem Erdinneren und zählt zu den regenerativen Energien, die durch Erdwärmeübertrager entzogen und damit nutzbar gemacht werden kann. Geothermie steht ganzjährig, also unabhängig von der Tages- und Jahreszeit und auch unabhängig vom Wetter zur Verfügung.
