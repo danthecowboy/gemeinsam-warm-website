@@ -5,6 +5,13 @@ draft: true
 weight: 4
 ---
 
+- Vorteil einer höheren Genossenschaftseinlage
+- Es wird wohl auf zwei Genossenschaftseinlagen hinauslaufen
+- Variante 1: Genossenschaftseinlage 25.000
+- Variante 2: Genossenschaftseinlage 5.000
+- Steigende CO2-Bepreisung
+
+
 # Die Investitionskosten
 
 ## anteilig nach Wärmeerzeuger und Nahwärmenetz mit Hausanschlüssen

@@ -17,7 +17,7 @@ useMap: 1
 {{< lead >}}
 Wir möchten eine unabhängige und zentrale Wärmeversorgung per Nahwärme auch für Lettgenbrunn, Pfaffenhausen und Oberndorf erreichen.
 
-Dass Nahwärme sehr gut funktioniert, beweist unser Ortsteil Burgjoß schon seit über 10 Jahren.
+Dass Nahwärme sehr gut funktioniert, beweist unser Ortsteil Burgjoß schon seit über 14 Jahren.
 
 Es gibt kaum eine bessere Alternative: Nahwärme ist ökologisch, nachhaltig, innovativ, unabhängig, wirtschaftlich und zukunftssicher.
 
@@ -46,7 +46,7 @@ Die Genossenschaft soll ehrenamtlich organisiert werden, arbeitet kostendeckend 
 
 Die Jossgründer werden dabei Eigentümer der Genossenschaft und können alle Entscheidungen aktiv mitgestalten.
 
-Um das Kapital für die Investitionen aufzubringen sind die Gemeinde, Bürger/-innen, Unternehmen und Vereine eingeladen sich zu beteiligen.
+Um das Kapital für die Investitionen aufzubringen sind die Bürgerinnen und Bürger eingeladen sich zu beteiligen.
 
 Auf dieser Internetseite möchten wir interessante Informationen zu folgenden Bereichen bereitstellen:
 - unter welchen Bedingungen die Umsetzung von Nahwärme möglich wäre
