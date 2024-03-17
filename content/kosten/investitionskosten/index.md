@@ -5,6 +5,7 @@ draft: true
 weight: 4
 ---
 
+- Die Genossenschaftseinlage geht nicht verloren, sondern bleibt erhalten (verzinst sich sogar) und kann nach xx Jahren ausbezahlt werden.
 - Vorteil einer höheren Genossenschaftseinlage
 - Es wird wohl auf zwei Genossenschaftseinlagen hinauslaufen
 - Variante 1: Genossenschaftseinlage 25.000

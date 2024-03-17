@@ -12,71 +12,55 @@ theme = 'basic'
     # url = "/"
     # weight = 1
   [[menu.main]]
-    identifier = "grundlagen"
+    identifier = "technik"
     name = "Grundlagen"
-    url = "/grundlagen"
+    url = "/technik"
     weight = 2
   [[menu.main]]
-    identifier = "grundlagen_allgemein"
-    name = "Motivation"
+    identifier = "waermeerzeugung"
+    name = "Möglichkeiten des klimafreundlichen Heizens"
+    url = "/technik/waermeerzeugung"
+    parent = "technik"
+    weight = 1
+  [[menu.main]]
+    identifier = "netz"
+    name = "Funktionsweise eines Wärmenetzs"
+    url = "/technik/netz"
+    parent = "technik"
+    weight = 2
+  [[menu.main]]
+    identifier = "preis"
+    name = "Alles rund um den Nahwärmepreis"
+    url = "/kosten/preis"
+    parent = "technik"
+    weight = 3
+  [[menu.main]]
+    identifier = "preisvergleich"
+    name = "Preisvergleich verschiedener Heizsysteme"
+    url = "/kosten/preisvergleich"
+    parent = "technik"
+    weight = 4
+  [[menu.main]]
+    identifier = "grundlagen"
+    name = "Unser Nahwärme-Projekt"
     url = "/grundlagen"
+    weight = 3
+  [[menu.main]]
+    identifier = "finanzierung"
+    name = "Die Finanzierung"
+    url = "/grundlagen/finanzierung"
     parent = "grundlagen"
     weight = 1
   [[menu.main]]
-    identifier = "finanzierung"
-    name = "Finanzierung"
-    url = "/grundlagen/finanzierung"
+    identifier = "grundlagen_allgemein"
+    name = "Die jährlichen Heizkosten"
+    url = "/grundlagen"
     parent = "grundlagen"
     weight = 2
   [[menu.main]]
     identifier = "zeitplan"
-    name = "Zeitplan"
+    name = "Die nächsten Schritte"
     url = "/grundlagen/zeitplan"
     parent = "grundlagen"
     weight = 3
-  [[menu.main]]
-    identifier = "technik"
-    name = "Technik"
-    url = "/technik"
-    weight = 3
-  [[menu.main]]
-    identifier = "netz"
-    name = "Das Wärmenetz"
-    url = "/technik/netz"
-    parent = "technik"
-    weight = 1
-  [[menu.main]]
-    identifier = "waermeerzeugung"
-    name = "Die Wärmeerzeugung"
-    url = "/technik/waermeerzeugung"
-    parent = "technik"
-    weight = 2
-  [[menu.main]]
-    identifier = "alskunde"
-    name = "Im eigenen Haus"
-    url = "/technik/alskunde"
-    parent = "technik"
-    weight = 3
-  [[menu.main]]
-    identifier = "kosten"
-    name = "Kosten"
-    url = "/kosten"
-    weight = 4
-  [[menu.main]]
-    identifier = "preis"
-    name = "Nahwärmepreis"
-    url = "/kosten/preis"
-    parent = "kosten"
-    weight = 1
-  [[menu.main]]
-    identifier = "preisvergleich"
-    name = "Preisvergleich"
-    url = "/kosten/preisvergleich"
-    parent = "kosten"
-    weight = 2
-  [[menu.main]]
-    identifier = "investitionskosten"
-    name = "Investitionskosten"
-    url = "/kosten/investitionskosten"
-    parent = "kosten"
-    weight = 3
+

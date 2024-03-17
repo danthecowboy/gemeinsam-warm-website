@@ -6,9 +6,9 @@ weight: 4
 useMermaid: true
 ---
 
-### Der Nahwärmepreis und wie er sich zusammensetzt
+#### Der Nahwärmepreis und wie er sich zusammensetzt
 
-Verschiedene Faktoren beeinflussen die Höhe des Nahwärmepreises - sprich den Preis, der als Kunde für eine Kilowattstunde (in Einheit kWh) an bezogener Wärme aus dem Nahwärmenetz gezahlt werden muss:
+Verschiedene Faktoren beeinflussen die Höhe des Nahwärmepreises - sprich den Preis, der als Kunde für eine Kilowattstunde an bezogener Wärme (in der Einheit kWh) aus dem Nahwärmenetz gezahlt werden muss:
 
 Zunächst sind das diese drei Kostenanteile:
 - Verbrauchsgebundener Kostenanteil (ca. 40%)
@@ -32,27 +32,16 @@ pie title Kostenanteile am Nahwärmepreis
 3. Betriebsgebundene Kostenanteile:
    Diese Kosten entstehen durch den laufenden Betrieb der Nahwärmeanlage und umfassen Personal- und Verwaltungskosten, Energie für den Eigenbedarf der Anlage, Versicherungen, Abgaben und Steuern sowie möglicherweise weitere Betriebsausgaben wie Überwachung und Kontrolle der Anlage. Die Kosten hierfür werden üblicherweise pauschal mit einem Prozent der Gesamtinvestitionskosten angesetzt.
 
-Wir haben verschiedene Hebel, um den Nahwärmepreis zu drücken:
-- Monatlich gezahlter Grundpreis
-Die jährlichen Kosten werden durch einen Arbeits- und einen Grundpreis dargestellt. Ein höherer Grundpreis führt zu einem niedrigeren Arbeitspreis und umgekehrt (dies wird von der angestrebten Bürger-Genossenschaft festgelegt). 
+#### Welche Möglichkeiten gibt es, den Nahwärmepreis zu senken?
 
-- Anrechnung von Gewinnen aus dem Vorjahr
+Wir haben verschiedene Hebel, um den Nahwärmepreis zu positiv zu beeinflussen:
 
+- Je mehr bei der Nahwärme mitmachen, umso stärker verteilen sich die Investitionskosten und wird zu einem sinkenden kWh-Preis führen.
+- Je höher die Genossenschaftseinlage der Hausbesitzer insgesamt ist, die sich ans Nahwärmenetz anschließen lassen, umso höher ist die Eigenkapitalquote. Dadurch sinkt die Kreditaufnahme und damit der Aufwand für die Tilgung. Auch damit schmälert sich der Kostenanteil der kapitalgebundenen Kosten.
+- Monatlich gezahlter Grundpreis: Die jährlichen Kosten werden durch einen Arbeits- und einen Grundpreis dargestellt. Der Arbeitspreis ist der Preis pro bezogener kWh Wärme. Der Grundpreis ist eine monatlich entrichtete Grundgebühr - unabhängig von der tatsächlichen Menge an bezogener Wärme. Ein höherer Grundpreis führt zu einem niedrigeren Arbeitspreis (kWh-Preis) und umgekehrt (dies wird von der angestrebten Bürger-Genossenschaft festgelegt). 
+- Anrechnung von Gewinnen aus dem Vorjahr.
 
+**Klares Ziel ist und bleibt, den kWh-Preis für die Nahwärmeversorgung noch weiter zu senken.**
 
 Es ist wichtig zu betonen, dass die Kosten zu diesem Zeitpunkt noch nicht verbindlich sind, da es noch viele Unbekannte in der Formel gibt.
 Der endgültige kWh-Preis für Nahwärme setzt sich aus einer Kombination dieser Kostenanteile zusammen, wobei die genaue Zusammensetzung je nach lokalen Gegebenheiten, Technologien, Brennstoffpreisen, Finanzierungskonditionen und regulatorischen Rahmenbedingungen variieren kann.
-
-
-
-
-### Der Nahwärmepreis könnte wie folgt aussehen
-
-
-[TODO: Preise noch fixieren]
-Arbeitspreis pro verbrauchter kWh	~ XY Ct / kWh
-Grundpreis pro installierter kW	~ XY EUR / kW
-
-Unter dieser Annahme würden sich die jährlichen Kosten wie folgt gestalten:
-
- Trotzdem ist die grundsätzliche Machbarkeit in dieser Größenordnung gegeben.

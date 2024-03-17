@@ -9,16 +9,19 @@ weight: 4
 
 Die aktuellen kWh-Preise aus den Vorstudien für Pfaffenhausen, Lettgenbrunn und Oberndorf befinden sich bereits auf einem Wettbewerbsniveau mit Heizöl, Wärmepumpe oder Pellets und werden weiter sinken, sobald sich mehr Interessenten für einen Anschluss am Nahwärmenetz melden.
 
-**Für Heizöl gilt dabei zu beachten: Die CO2-Abgabe wird jährlich weiter steigen und das Öl Jahr für Jahr verteuern.**
-
-
-Als Beispiel dient ein durchschnittliches Einfamilienhaus mit etwa 20 kW installierter Leistung und einem Verbrauch von ca. 25.000 kWh.
-Ein solches durchschnittliches Einfamilienhaus benötigt etwa 3.000 Liter Heizöl im Jahr.
+Als Grundlage dient ein durchschnittliches Einfamilienhaus mit einem Verbrauch von etwa 3.000 Liter Heizöl im Jahr.
+Damit benötigt solches durchschnittliches Einfamilienhaus etwa 25.000 kWh an Wärme.
 Als Heizölpreis wird 1 EUR pro Liter angesetzt.
 
-Bei einer Wärmeversorgung per Nahwärme wurde kWh-Preis von 15 Cent angesetzt.
+{{< textpicturerow img="img/entwicklung-co2-preis.png" >}}
+Wichtig ist dabei zu beachten, dass durch die CO2-Abgabe der Heizöl-Preis jährlich weiter steigen lassen und dieses Jahr für Jahr verteuern wird!
+{{< /textpicturerow >}}
 
-**Dafür ergäben sich folgende geschätzte Investitionen in neue Anlage im Gebäude und jährliche Folgekosten:**
+Bei einer Wärmeversorgung per Nahwärme wurde ein kWh-Preis von **15 Cent** angesetzt.
+Es ist wichtig zu betonen, dass die Kosten zu diesem Zeitpunkt noch nicht verbindlich sind, da es noch viele Unbekannte in der Formel gibt. 
+Wenn sich viele Bürgerinnen und Bürger dazu bereit erklären, als Investoren in ihrem eigenen Nahwärmeprojekt einzusteigen, dann können im Idealfall die Aufwendungen für Zinsen und Tilgung entfallen, wodurch der kWh-Preis durch aus auf 10 Cent sinken kann.
+
+**Dafür ergäben sich folgende geschätzte Investitionen in ein neues Heizsystem im Gebäude und diesen damit verbundenen, jährlichen Folgekosten:**
 
 {{< table table_class="table table-striped table-hover" thead_class="table-dark">}}
 | Kosten für          |  Heizöl   | Nahwärme     | Wärmepumpe  | Pellets |
@@ -42,14 +45,7 @@ Bei einer Wärmeversorgung per Nahwärme wurde kWh-Preis von 15 Cent angesetzt.
 | **Gesamtkosten pro Jahr**  | **4.400 EUR** | **4.100 EUR** | **4.150 EUR** | **4.150 EUR** |
 {{< /table >}}
 
-Vergleicht man die Gesamtkosten pro Jahr wird ersichtlich, dass ein angenommener kWh-Preis von 15 Cent bei der Nahwärme bereits jetzt auf die gleichen jährlichen Kosten käme, wie die drei anderen Heizsystemvarianten Öl, Wärmepumpe und Pellets.
-
-**Klares Ziel ist und bleibt, den kWh-Preis für die Nahwärmeversorgung noch weiter zu senken!**
-
-**Und dafür gibt es die zwei Hebel:**
-
-**- Je mehr bei der Nahwärme mitmachen, umso stärker verteilen sich die Investitionskosten und wird zu einem sinkenden kWh-Preis führen.**
-
-**- Je höher unsere Eigenkapitalquote an dem Projekt ist, umso geringer fallen die kapitalgebundenen Kosten aus. Das wird sich ebenfalls positiv auf den kWh-Preis auswirken.** 
+Vergleicht man die Gesamtkosten pro Jahr wird ersichtlich, dass ein angenommener kWh-Preis von **15 Cent** bei der Nahwärme **bereits jetzt** auf die gleichen jährlichen Kosten käme, wie die drei anderen Heizsystemvarianten Öl, Wärmepumpe und Pellets.
+Wenn wir die Investitionssumme aus eigener Kraft stemmen können, kann der kWh-Preis sogar auf 10 Cent sinken.
 
 

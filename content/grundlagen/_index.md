@@ -5,35 +5,40 @@ draft: true
 weight: 2
 showAssignedPages: true
 ---
+#### Prognose der jährlichen Heizkosten für Hausbesitzer/-innen
+Zwei wichtige Faktoren beinflussen die letztlich jährlich anfallenden Heizkosten:
 
-#### Nahwärme als Zukunft der Wärmeversorgung
+- Die Höhe der angesprochenen einmaligen, freiwilligen Genossenschaftseinlage zu Beginn des Nahwärmeprojekts
+- Die Höhe der monatlichen Grundgebühr dann zur Betriebsphase
 
-Das Thema Energie- und Wärmeversorgung ist spätestens seit dem russischen Angriffskrieg auf die Ukraine und den damit verbundenen Versorgungsproblemen, sowie den aktuellen politischen Diskussionen allgegenwärtig.
+Den Einfluss der Genossenschaftseinlage haben wir bereits aufgezeigt. Je geringer diese ausfällt, umso höher sind die Kosten für die Zinsen und Tilgung des Kredits (Fremdkapitals), die sich auf die Heizkosten aufschlagen.
 
-In naher Zukunft wird jeder Hausbesitzer gezwungen sein, in die Modernisierung seiner Wärmeversorgung zu investieren, da viele veraltete Ölheizungen ihr Lebensende erreichen.
+Eine monatliche Grundgebühr hilft dem Betreiber des Nahwärmenetzes - als der Genossenschaft - besser kalkulieren zu können, da regelmäßig Einnahmen entstehen, und damit saisonale Schwankungen finanziell besser ausgeglichen werden können.
 
-Die Novellierung des Gebäudeenergiegesetzes regelt den Ausstieg aus der fossilen Heiztechnik und legt höhere energetische Anforderungen an Neubauten und Bestandsgebäude fest.
+**Bei einem angenommenen jährlichen Wärmebedarf von 25.000 kWh (entspricht ca. 3.000 Liter Heizöl)** sollen zwei Berechnungsszenarien verdeutlichen, wie sich die Höhe einer (freiwilligen) Genossenschaftseinlage und der monatlichen Grundgebühr auf die Jahresheizkosten auswirken:
 
-Daher ist das Interesse an einer möglichst klimaneutralen Wärmeversorgung in den letzten Jahren erheblich gestiegen. Schon jetzt wird jeder siebte Haushalt in Deutschland mit Fern- oder Nahwärme versorgt. Politisch gesehen soll sich diese Zahl bis 2045 verdreifachen.
+##### Szenario 1: **Genossenschaftseinlage von 25.000,- EUR** pro Hausbesitzer/-in
 
-**Das alles betrifft sowohl Hauseigentümer, als auch Mieter.**
+{{< table table_class="table table-striped table-hover" thead_class="table-dark">}}
+|         |    |  Jahreskosten |
+|---|---|---|
+| Monatliche Grundgebühr | 60 EUR | 720 EUR |
+| Kosten für bezogene Nahwämre  |  | 1.750 EUR |
+| Monatliche Kosten für Zinsen und Tilgung  | 0 EUR | 0 EUR |
+| **Gesamtkosten**  | | **2.470 EUR** |
+| Das macht einen effektiven kWh-Preis von |**rund 10 Cent** (2.470 EUR / 25.000 kWh). |
+{{< /table >}}
 
-Die Gemeinde Jossgrund unterstützt ihre Bürgerinnen und Bürger bei der Bewältigung dieser Herausforderungen.
+##### Szenario 2: **Genossenschaftseinlage von 5.000,- EUR** pro Hausbesitzer/-in
 
-#### Was ist Nahwärme und welche Vorteile bietet sie?
-Von Nahwärme spricht man, wenn Gebäude nicht selbst ihre Wärme erzeugen, sondern durch heißes Wasser für Heizung und Warmwasserversorgung über ein Warmwassernetz versorgt werden.
+{{< table table_class="table table-striped table-hover" thead_class="table-dark">}}
+|          |    |  Jahreskosten |
+|---|---|---|
+| Monatliche Grundgebühr | 60 EUR | 720 EUR |
+| Kosten für bezogene Nahwämre  |  | 1.750 EUR |
+| Monatliche Kosten für Zinsen und Tilgung  | 116,50 EUR | 1.400 EUR |
+| **Gesamtkosten**  | | **3.870 EUR** |
+| Das macht einen effektiven kWh-Preis von |**rund 15 Cent** (3.870 EUR / 25.000 kWh). |
+{{< /table >}}
 
-{{< picturetextrow img="img/darstellung-waermenetz.jpeg" >}}
-Die Wärmeenergie wird zentral in einem Heizkraftwerk erzeugt und über Rohre direkt zu den angeschlossenen Häusern transportiert. Dadurch werden Öl- oder Gasheizungen in den angeschlossenen Gebäuden überflüssig.
-{{< /picturetextrow >}}
-
-Nahwärmenetze ermöglichen es, ganze Orte umweltfreundlich und nachhaltig mit Wärme zu versorgen.
-
-Durch den Anschluss an ein Wärmenetz können die Heizkosten deutlich gesenkt werden, da Nahwärme in der Regel kostengünstiger ist als individuelle Heizsysteme.
-
-Wärmenetze bieten eine zuverlässige Wärmeversorgung, da sie auf redundanten Systemen und Reservekapazitäten basieren. Dies reduziert das Risiko von Ausfällen im Vergleich zu einzelnen Heizanlagen, insbesondere in kalten Wintern oder bei Störungen.
-
-An ein Wärmenetz angeschlossene Hausbesitzer müssen sich nicht mehr um die Beschaffung und Lagerung von Brennstoffen kümmern. Durch den Wegfall von Heizkessel und dem Lagerraum für Brennstoffe schafft zusätzlichen Raum im Haus, der anderweitig genutzt werden kann.
-
-Ein modernes Nahwärmenetz wird zentral und digital überwacht, und im Falle von Problemen steht ein Kundenservice zur Verfügung, auch an Sonn- und Feiertagen.
-
+Aus diesen beiden Berechnungsszenarien wird ersichtlich, in wie weit sich unterschiedlich hohe Genossenschaftseinlagen auf den effektiven kWh-Preis auswirken.

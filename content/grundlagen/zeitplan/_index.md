@@ -8,7 +8,7 @@ weight: 1
 useMermaid: true
 ---
 
-### Der Zeitplan und die nächsten Schritte
+#### Die nächsten Schritte und ein Zeitplan
 
 Wir möchten in den nächsten Monaten für das Nahwärmeprojekt Werbung machen und das Interesse von noch Unentschlossenen wecken. Dazu möchten wir unter anderem über diese Webseite die Interessensbekundungen durchführen und entsprechende Daten abfragen.
 
@@ -34,14 +34,15 @@ Danach muss die Förderung gesichert werden und die Bürgerinnen und Bürger die
 **Ein grober Ablauf der nächsten Schritte könnte wie folgt aussehen:**
 
 {{< mermaid >}}
-flowchart LR
+graph TB
     a("Nahwärmeprojekt bewerben") --> b("Technische Umsetzungsmöglichkeiten evaluieren")
     b --> d("Gründung der Genossenschaft(en)")
     d --> e("Finanzierung sichern und Förderanträge stellen")
     d --> f("Verbindliche Zusagen von Hausbesitzern einholen")
+    e --> g("Fachliche Planung, Genehmigungsverfahren")
+    f --> g("Fachliche Planung, Genehmigungsverfahren")
+    g --> h("Vergabeverfahren und Baubeginn")
 {{< /mermaid >}}
-
-**Unser Zeitplan sieht wie folgt aus:**
 
 {{< table table_class="table table-striped table-hover" thead_class="table-dark" >}}
 |Zeitraum|Schritt|
