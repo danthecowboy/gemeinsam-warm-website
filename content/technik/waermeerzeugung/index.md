@@ -8,6 +8,12 @@ weight: 3
 
 #### Möglichkeiten des klimafreundlichen Heizens
 
+Die [Novellierung des Gebäudeenergiegesetzes](https://www.energiewechsel.de/KAENEF/Redaktion/DE/Downloads/faktenblatt-geg-gebaeudeenergiegesetz.pdf?__blob=publicationFile&v=3) regelt den Ausstieg aus der fossilen Heiztechnik und legt höhere energetische Anforderungen an Neubauten und Bestandsgebäude fest.
+
+Es legt auch Standards für den energetischen Neubau und die Sanierung von Gebäuden fest, um den Energieverbrauch zu reduzieren und den Einsatz erneuerbarer Energien zu fördern.
+
+Das Gebäudeenergiegesetz legt aber nicht nur Standards für die energetische Effizienz von Gebäuden fest, sondern definiert auch die zulässigen Heizsysteme, die diesen Anforderungen gerecht werden:
+
 **1) Durch den Anschluss an ein Nahwärmenetz**
 
 Zur Erzeugung der Nutzwärme dient ein zentrales Heizwerk. Diese Wärme wird über Fernwärme- oder Nahwärmenetze zu den Verbrauchern geführt. Als Übertragungsmedium dient bei Nahwärmenetzen in der angedachten Größenordnung i.d.R. Wasser. Ein Fernwärmenetz funktioniert prinzipiell mit jeder Energiequelle in der Heizzentrale, sofern Temperaturen an den Übergabestellen zu den angeschlossenen Verbrauchern von etwa 80°C erreicht werden. Dies muss in allen Tages- und Nachtzeiten ganzjährig gewährleistet sein. Die geplante Temperatur an den Übergabestellen ein daher ein wesentliches Kriterium zur Auslegung des Netzes und der Leistungs-Dimensionierung der Heizzentrale. 

@@ -14,7 +14,7 @@ Damit benötigt solches durchschnittliches Einfamilienhaus etwa 25.000 kWh an W�
 Als Heizölpreis wird 1 EUR pro Liter angesetzt.
 
 {{< textpicturerow img="img/entwicklung-co2-preis.png" >}}
-Wichtig ist dabei zu beachten, dass durch die CO2-Abgabe der Heizöl-Preis jährlich weiter steigen lassen und dieses Jahr für Jahr verteuern wird!
+**Wichtig ist dabei zu beachten, dass durch die jährlich weiter steigende CO2-Abgabe der Heizöl-Preis Jahr für Jahr verteuern wird!**
 {{< /textpicturerow >}}
 
 Bei einer Wärmeversorgung per Nahwärme wurde ein kWh-Preis von **15 Cent** angesetzt.
