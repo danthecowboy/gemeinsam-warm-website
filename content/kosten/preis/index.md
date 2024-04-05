@@ -11,15 +11,15 @@ useMermaid: true
 Verschiedene Faktoren beeinflussen die Höhe des Nahwärmepreises - sprich den Preis, der als Kunde für eine Kilowattstunde an bezogener Wärme (in der Einheit kWh) aus dem Nahwärmenetz gezahlt werden muss:
 
 Zunächst sind das diese drei Kostenanteile:
-- Verbrauchsgebundener Kostenanteil (ca. 40%)
-- Kapitalgebundener Kostenanteil (ca. 50%)
-- Betriebsgebundener Kostenanteil (ca. 10%)
+- Kapitalgebundener Kostenanteil (ca. 35%)
+- Verbrauchsgebundener Kostenanteil (ca. 45%)
+- Betriebsgebundener Kostenanteil (ca. 20%)
 
 {{< mermaid >}}
 pie title Kostenanteile am Nahwärmepreis
-    "Kapitalgebundene Kosten" : 40
-    "Verbrauchsgebundene Kosten" : 50
-    "Betriebsgebundene Kosten" : 10
+    "Kapitalgebundene Kosten" : 35
+    "Verbrauchsgebundene Kosten" : 45
+    "Betriebsgebundene Kosten" : 20
 {{< /mermaid >}}
 
 1. Verbrauchsgebundene Kostenanteile:
