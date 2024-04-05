@@ -18,7 +18,7 @@ theme = 'basic'
     weight = 2
   [[menu.main]]
     identifier = "netz"
-    name = "Funktionsweise eines Wärmenetzs"
+    name = "Funktionsweise eines Wärmenetzes"
     url = "/technik/netz"
     parent = "technik"
     weight = 1
