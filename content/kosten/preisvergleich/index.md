@@ -17,6 +17,15 @@ Als Heizölpreis wird 1 EUR pro Liter angesetzt.
 **Wichtig ist dabei zu beachten, dass durch die jährlich weiter steigende CO2-Abgabe der Heizöl-Preis Jahr für Jahr verteuern wird!**
 {{< /textpicturerow >}}
 
+Das macht bei einem Jahresverbrauch von 3.000 Litern Heizöl einen jährlichen Preiszuschlag von:
+
+{{< table table_class="table table-striped table-hover" thead_class="table-dark">}}
+| 2023        | 2024 |  2025 |  2026 |
+|---|---|---|---|
+| 252,00 EUR | 378,00 EUR | 462,00 EUR | 546,00 EUR |
+{{< /table >}}
+
+
 Bei einer Wärmeversorgung per Nahwärme wurde ein kWh-Preis von **15 Cent** angesetzt.
 Es ist wichtig zu betonen, dass die Kosten zu diesem Zeitpunkt noch nicht verbindlich sind, da es noch viele Unbekannte in der Formel gibt. 
 Wenn sich viele Bürgerinnen und Bürger dazu bereit erklären, als Investoren in ihrem eigenen Nahwärmeprojekt einzusteigen, dann können im Idealfall die Aufwendungen für Zinsen und Tilgung entfallen, wodurch der kWh-Preis durch aus auf 10 Cent sinken kann.
