@@ -47,8 +47,8 @@ graph TB
 {{< table table_class="table table-striped table-hover" thead_class="table-dark" >}}
 |Zeitraum|Schritt|
 |----------------------------------|--------------------------------------------------|
-| bis Ende Juni 2024                  | Werbung und Ausweitung der Interessensabfrage unter (noch unentschlossenen) Hausbesitzern. |
-| zweite Hälfte 2024                  | Evaluierung der technischen Umsetzungsmöglichkeiten (Biomasse, Solar-Thermie, Geothermie, Wärmespeicher, Wärmepumpen).                    |
+| ab Juni 2024                  | Werbung und Ausweitung der Interessensabfrage unter (noch unentschlossenen) Hausbesitzern. |
+| ab Oktober 2024                  | Evaluierung der technischen Umsetzungsmöglichkeiten (Biomasse, Solar-Thermie, Geothermie, Wärmespeicher, Wärmepumpen).                    |
 | erste Hälfte 2025                | Gründung der Genossenschaft(en).                    |
 | parallel ab 2025                 | Verbindliche Zusage von Hausbesitzern zur Teilnahme am Nahwärmenetz einholen.                     |
 | parallel ab 2025                 | Antragstellung der Förderungen, Finanzierung sicherstellen und Business-Plan entwickeln.                          |
