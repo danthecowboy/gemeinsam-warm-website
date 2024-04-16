@@ -38,9 +38,9 @@ Wenn sich viele Bürgerinnen und Bürger dazu bereit erklären, als Investoren i
 | Umbau Wärmeerzeuger (Heizung) | 20.000 EUR | 2.000 EUR | 36.000 EUR | 35.000 EUR |
 | Förderung  | 0% | 0% | 40% | 20% |
 | Kosten Wärmeerzeuger abz. Förderung  | 20.000 EUR | 2.000 EUR | 21.600 EUR | 28.000 EUR |
-| Möglicher Genossenschaftsbeitrag  | 5.000 EUR | 0 EUR | 0 EUR | 0 EUR |
+| Möglicher Genossenschaftsbeitrag  | 0 EUR | 5.000 EUR | 0 EUR | 0 EUR |
 | Nutzungsdauer  | 20 Jahre | 20 Jahre | 20 Jahre | 20 Jahre |
-| **Abschreibungskosten pro Jahr**  | **350 EUR** | **1.080 EUR** | **1.000 EUR** | **1.400 EUR** |
+| **Abschreibungskosten pro Jahr**  | **1.000 EUR** | **350 EUR** | **1.080 EUR** | **1.400 EUR** |
 | **Brennstoff/Wärmepreis (geschätzt)** |
 | Brennstoffmenge pro Jahr  | 3.000 Liter | 24.990 kWh Wärme | 8.925 kWh Strom | 7 Tonnen |
 | Angesetzter Preis von Brennstoff/Wärme  | 1 EUR pro Liter | 0,15 EUR pro kWh Wärme | 0,3 EUR pro kWh Strom | 320 EUR pro Tonne |
