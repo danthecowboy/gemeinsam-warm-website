@@ -23,6 +23,7 @@
  
  @media (min-width:768px){
    .container-custom {
+       padding-top: 10px;
        max-width:62em;
        padding-left: 3em;
        padding-right: 3em;
@@ -31,6 +32,7 @@
  
  @media (min-width:992px){
    .container-custom {
+        padding-top: 10px;
         max-width:62em;
         padding-left: 3em;
         padding-right: 3em;
@@ -39,6 +41,7 @@
  
  @media (min-width:1200px){
    .container-custom {
+        padding-top: 10px;
         max-width:62em;
         padding-left: 3em;
         padding-right: 3em;
@@ -48,6 +51,7 @@
 
 @media (min-width: 1400px) {
     .container-custom {
+        padding-top: 10px;
         max-width:62em;
         padding-left: 3em;
         padding-right: 3em;
