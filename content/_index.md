@@ -23,20 +23,20 @@ Es gibt kaum eine bessere Alternative: Nahwärme ist ökologisch, nachhaltig, in
 
 #### Die Motivation
 
-Die Gemeinde Jossgrund hatte dazu eine Vorstudie mit dem Titel "Nahwärme für Jossgrund" in Auftrag gegeben. Die Ergebnisse wurden  ab März 2023 in Informationsveranstaltungen in allen Ortsteilen präsentiert. Die Zusammenfassung des Ergebnisses lautet wie folgt:
+Die Gemeinde Jossgrund hatte dazu eine Vorstudie mit dem Titel "Nahwärme für Jossgrund" in Auftrag gegeben. Die Ergebnisse wurden ab März 2023 in Informationsveranstaltungen in allen Ortsteilen präsentiert. Die Zusammenfassung des Ergebnisses lautet wie folgt:
 
 **Eine Nahwärmeversorgung mit finanzierbaren Lösungsansätzen ist für ganz Jossgrund möglich!**
 
 **Das Projekt kann wirtschaftlich nur über einen bürgergenossenschaftlichen Ansatz realisiert werden!**
 
-Jeder Hausbesitzer und jede Hausbesitzerin muss künftig in eine ökologische Wärmeversorgung investieren. Viele verbaute Ölheizungen nähern sich ihrem Lebensende. Es besteht hoher Handlungsbedarf. Die [Novellierung des Gebäudeenergiegesetzes](https://www.energiewechsel.de/KAENEF/Redaktion/DE/Downloads/faktenblatt-geg-gebaeudeenergiegesetz.pdf?__blob=publicationFile&v=3) regelt den Ausstieg aus der fossilen Heiztechnik und legt höhere energetische Anforderungen an Neubauten und Bestandsgebäude fest. Würde jeder für sich in eine eigene nachhaltige Heizung investieren, so würde es für jeden einzelnen deutlich teurer werden, als wenn man sich zusammentun und eine "gemeinsame Heizung" kaufen würde. Hierin liegt ein gewaltiges Potential.
+Jeder Hausbesitzer und jede Hausbesitzerin muss künftig in eine ökologische Wärmeversorgung investieren. Viele verbaute Ölheizungen nähern sich ihrem Lebensende. Es besteht hoher Handlungsbedarf. Die [Novellierung des Gebäudeenergiegesetzes](https://www.energiewechsel.de/KAENEF/Redaktion/DE/Downloads/faktenblatt-geg-gebaeudeenergiegesetz.pdf?__blob=publicationFile&v=3) regelt den Ausstieg aus der fossilen Heiztechnik und legt höhere energetische Anforderungen an Neubauten und Bestandsgebäude fest. Würde jeder für sich in eine eigene nachhaltige Heizung investieren, so würde es für jeden Einzelnen deutlich teurer werden, als wenn man sich zusammentun und eine "gemeinsame Heizung" kaufen würde. Hierin liegt ein gewaltiges Potential.
 
 Unser Nahwärmeprojekt steht dafür
 - selbst aktiv zu werden und eine unabhängige, lokale Wärmeversorgung zu betreiben
 - Wärme langfristig aus 100% erneuerbaren Energiequellen zu erzeugen
 - die Attraktivität unserer Gemeinde zu erhöhen und künftigen Generationen eine positive Perspektive zu bieten 
 
-**Wir sind davon überzeugt, dass für Hausbesitzer die Investition in einen Nahwärmenetz-Anschluss günstiger kommt, als die Investition in eine eigene Heizung, die den Anforderungen des neuen GEGs genügt!**
+**Wir sind davon überzeugt, dass für Hausbesitzer die Investition in einen Nahwärmenetz-Anschluss günstiger ist als die Investition in eine eigene Heizung, die den Anforderungen des neuen GEGs genügt!**
 
 Die Gemeinde Jossgrund unterstützt dabei ihre Bürgerinnen und Bürger bei der Bewältigung dieser Herausforderungen.
 
@@ -66,7 +66,7 @@ Die Planung und Umsetzung dieses Projekts erfordert erhebliche finanzielle Mitte
 
 **Wir müssen daher auf eine 65-prozentige Anschlussquote kommen!**
 
-Stand November 2023 stehen wir bei den Anteil der Interessenbekundungen pro Ortsteil hier:
+Stand November 2023 stehen wir bei den Anteilen der Interessenbekundungen pro Ortsteil hier:
 
 {{< table table_class="table table-striped table-hover" thead_class="table-dark" >}}
 | Ortsteil          | Quote Interesse (Stand 11/2023)   | Noch fehlende Anzahl an Gebäuden (Stand 11/2023)
